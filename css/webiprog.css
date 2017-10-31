@@ -1,0 +1,367 @@
+.owl-stage {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    -moz-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    -o-flex-flow: row wrap;
+    flex-flow: row wrap;
+    align-items: center;
+    -webkit-align-items: center;
+}
+
+.owl-stage img {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray; /* IE 6-9 */ 
+    -webkit-transition: all 0.3s ease-out 0.3s;
+    -moz-transition: all 0.3s ease-out 0.3s;
+    -o-transition: all 0.3s ease-out 0.3s;
+    transition: all 0.3s ease-out 0.3s;
+}
+.team-avatar {
+    background-position: top center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    min-height: 292px;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray; /* IE 6-9 */
+    -webkit-transition: all 0.3s ease-out 0.3s;
+    -moz-transition: all 0.3s ease-out 0.3s;
+    -o-transition: all 0.3s ease-out 0.3s;
+    transition: all 0.3s ease-out 0.3s;
+}
+.owl-stage img:hover, .team-avatar:hover {
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    -ms-filter: grayscale(0%);
+    -o-filter: grayscale(0%);
+    filter: none;
+}
+.team {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    -moz-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    -o-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+.team-area .col-md-6 {
+    max-height: 292px;
+}
+.team-avatar img {
+    display: none;
+}
+.photo-one {
+    background-image: url(../images/resource/Stas-min.jpg);
+}
+.photo-two {
+    background-image: url(../images/resource/Oleg-min.jpg);
+}
+.photo-three {
+    background-image: url(../images/resource/Maxx-min.jpg);
+}
+.photo-four {
+    background-image: url(../images/resource/at-min.jpg);
+}
+.photo-five {
+    background-image: url(../images/resource/SeHo-min.jpg);
+}
+.photo-six {
+    background-image: url(../images/resource/Yaro-min.jpg);
+}
+.photo-seven {
+    background-image: url(../images/resource/ilya-min.jpg);
+}
+.photo-eight {
+    background-image: url(../images/resource/Andrew-min.jpg);
+}
+.photo-nine {
+    background-image: url(../images/resource/Dmitry-min.jpg);
+}
+.photo-ten {
+    background-image: url(../images/resource/andrew-gurar-min.jpg);
+}
+.team-details {
+    min-height: 292px;
+}
+.team.flip > .team-details {
+    order: 1;
+}
+.team-details::before {
+    z-index: 1;
+}
+.tickcounter {
+    position: static!important;
+    padding-bottom: 0!important;
+}
+.tickcounter iframe {
+    position: static!important;
+}
+.countdown {
+    clear: both;
+    position: relative;
+}
+.countdown::after {
+    content: "";
+    display: block;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    z-index: 1000;
+    cursor: default;
+}
+.custom-btn {
+    background-color: #fff;
+    color: #0d7cfe!important;
+}
+.custom-btn:hover {
+    color: #fff!important;
+    background-color: #0d7cfe;
+    opacity: 1;
+}
+/* For modal windov start */
+.simplemodal-container {
+    z-index: 9999!important;
+}
+#simplemodal-container a.modalCloseImg {
+    background-image: url(../images/x.png)!important;
+}
+#simplemodal-data {
+    height: 100%;
+}
+.custom-modal-window {
+    height: 100%;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    -moz-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    -o-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+.custom-modal-window a {
+    color: #fff;
+    background-color: #286090;
+    border-color: #204d74;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    box-shadow: none;
+    text-shadow: none;
+    text-decoration: none;
+}
+.b-social-links {
+    position: fixed;
+    bottom: calc(50% - 240px);
+    right: 10px;
+    z-index: 9999999;
+}
+.b-social-links ul {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-flow: column wrap;
+    -moz-flex-flow: column wrap;
+    -ms-flex-flow: column wrap;
+    -o-flex-flow: column wrap;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0;
+    margin: 0;
+}
+.b-social-links ul li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+.b-social-links ul li a {
+    background-color: #fff;
+    border: 2px solid #0d7cfe;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-flow: column wrap;
+    -moz-flex-flow: column wrap;
+    -ms-flex-flow: column wrap;
+    -o-flex-flow: column wrap;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    -webkit-transition: all 0.3s ease-out 0.3s;
+    -moz-transition: all 0.3s ease-out 0.3s;
+    -o-transition: all 0.3s ease-out 0.3s;
+    transition: all 0.3s ease-out 0.3s;
+    outline: none;
+}
+.b-social-links ul li a .fa {
+    font-size: 25px;
+    color: #0d7cfe;
+    -webkit-transition: all 0.3s ease-out 0.3s;
+    -moz-transition: all 0.3s ease-out 0.3s;
+    -o-transition: all 0.3s ease-out 0.3s;
+    transition: all 0.3s ease-out 0.3s;
+}
+.b-social-links ul li a:hover {
+    background-color: #0d7cfe;
+}
+.b-social-links ul li a:hover .fa {
+    color: #fff;
+}
+/*
+ * SimpleModal Basic Modal Dialog
+ * http://www.ericmmartin.com/projects/simplemodal/
+ * http://code.google.com/p/simplemodal/
+ *
+ * Copyright (c) 2008 Eric Martin - http://ericmmartin.com
+ *
+ * Licensed under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *
+ * Revision: $Id: basic.css 162 2008-12-01 23:36:58Z emartin24 $
+ *
+ */
+
+/* Overlay */
+#simplemodal-overlay {background-color:#aaaaaa; cursor:wait;}
+
+/* Container */
+#simplemodal-container {height: 410px; width: 500px; background-color:#fff; border:1px solid #000000; -moz-border-radius: 5px; }
+#simplemodal-container a.modalCloseImg {background:url('x.png') no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; left:-18px; cursor:pointer;}
+#simplemodal-container #basicModalContent {padding:8px;}
+/* For modal windov end */
+@media screen and (min-width: 1200px) {
+    header .container {
+        width: 1205px;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex;
+        -webkit-flex-flow: row nowrap;
+        -moz-flex-flow: row nowrap;
+        -ms-flex-flow: row nowrap;
+        -o-flex-flow: row nowrap;
+        flex-flow: row nowrap;
+    }
+    header.sticky .menu > ul {
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex;
+        -webkit-flex-flow: row nowrap;
+        -moz-flex-flow: row nowrap;
+        -ms-flex-flow: row nowrap;
+        -o-flex-flow: row nowrap;
+        flex-flow: row nowrap;
+    }
+}
+@media screen and (max-width: 1250px) {
+    .menu > ul > li > a {
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .b-social-links {
+        position: static;
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+        clear: both;
+    }
+    .b-social-links ul {
+        -webkit-flex-flow: row nowrap;
+        -moz-flex-flow: row nowrap;
+        -ms-flex-flow: row nowrap;
+        -o-flex-flow: row nowrap;
+        flex-flow: row nowrap;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .b-social-links ul li {
+        margin-right: 10px;
+    }
+}
+@media screen and (max-width: 767px) {
+    center iframe {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 530px) {
+    .b-social-links ul li {
+        margin-right: 0;
+    }
+    .b-social-links ul {
+        justify-content: space-between;
+    }
+}
+@media screen and (max-width: 480px) {
+    .team.flip > .team-details {
+        order: 0;
+    }
+    .team-avatar {
+        min-height: 350px;
+    }
+    .b-social-links ul li {
+        margin-right: 10px;
+    }
+    .b-social-links ul {
+        justify-content: center;
+    }
+    .b-social-links ul li a {
+        width: 35px;
+        height: 35px;
+    }
+    .b-social-links ul li a .fa {
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 360px) {
+    .b-social-links ul li {
+        margin-right: 0;
+    }
+    .b-social-links ul {
+        justify-content: space-between;
+    }
+    .b-social-links ul li a {
+        width: 30px;
+        height: 30px;
+    }
+}
