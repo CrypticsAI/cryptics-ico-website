@@ -1,0 +1,76 @@
+/* Background color */
+.feature-toogle > h3.active,
+.fancy-tab-area:before,
+.proce-table:hover > .price-prdct,
+.proce-table:hover > .price-prdct:before,
+.proce-table:hover > .price-prdct:after,
+.slick-slide.slick-active.slick-center .testimonial-area > p,
+.slick-dots > li.slick-active button,
+.team.flip,
+.team.flip .team-details:before,
+.pointer span,
+.bottom-line,
+#topcontrol:before,
+.tabs_item .round-btn,
+.why-dont > .round-btn,
+.show-form-btn,
+.trial-form > form input[type="submit"],
+.block.dark .team.flip .team-details:before,
+.block.dark .team.flip,
+.features > li:hover > i,
+header.sticky .menu > ul > li.active > a:before,
+.ribbon-design,
+.color-themes > ul > li > a.active,
+.theme-layouts > ul > li > a.active,
+.header-option > ul > li > a.active,
+.open-nav,
+.metas > li > a,
+.post-thumb > a,
+.leave-comment form .submit
+{
+	background:#0d7cfe;
+}
+
+
+/* Font Color */
+.why-dont-sec > span:hover, 
+.why-dont-sec > span.active,
+.services > i,
+.prdct-mock h3 strong,
+.cool-facts .count,
+.prdct-mockup-info > span,
+.features > li > i,
+.testimonial-area > h5,
+.text-block2 > span strong,
+.app-screenshot:hover > a.html5lightbox,
+.twitter-slide li a,
+.get-in-touch form .submit,
+.company-address > li > i,
+.why-dont-sec > .pointer > span,
+.round-btn:hover,
+.block.dark .cool-facts > i,
+header.sticky .logo > a i,
+.color-themes > ul > li > a,
+.theme-layouts > ul > li > a,
+.header-option > ul > li > a,
+.main-sec .logo a i,
+.post-author-infos > h3 a,
+.comment-info > h3 a  
+{
+	color:#0d7cfe;
+}
+
+
+/* Border Color */
+.round-btn.big,
+.features > li > i,
+.get-in-touch form .submit,
+.pointer:before,
+.company-address > li > i,
+.why-dont > .round-btn,
+.color-themes > ul > li > a,
+.theme-layouts > ul > li > a,
+.header-option > ul > li > a 
+{
+	border-color:#0d7cfe;
+}
