@@ -1,0 +1,1367 @@
+# Copyright (C) 2014 Catch Themes
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Responsive\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2017-08-27 23:19+0545\n"
+"PO-Revision-Date: 2017-08-27 23:20+0545\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;"
+"_nx:1,2,4c;esc_html__;esc_attr_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: -1,84,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Elnézést, a keresett oldal nem található."
+
+#: ../404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Úgy tűnik, ezen a helyen nem található semmi. Próbálja meg az alábbi "
+"linkeket vagy a keresést."
+
+#: ../comments.php:30
+#, fuzzy, php-format
+#| msgctxt "comments title"
+#| msgid "One thought on &ldquo;%2$s&rdquo;"
+#| msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%2$s&rdquo; bejegyzéshez egy hozzászólás"
+
+#: ../comments.php:35
+#, fuzzy, php-format
+#| msgctxt "comments title"
+#| msgid "One thought on &ldquo;%2$s&rdquo;"
+#| msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; bejegyzéshez egy hozzászólás"
+msgstr[1] "&ldquo;%2$s&rdquo; bejegyzéshez %1$s hozzászólás"
+
+#: ../comments.php:50 ../comments.php:75
+msgid "Comment navigation"
+msgstr "Hozzászólás navigáció"
+
+#: ../comments.php:51 ../comments.php:76
+msgid "&larr; Older Comments"
+msgstr "&larr; Régebbi hozzászólások"
+
+#: ../comments.php:52 ../comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "Újabb hozzászólások &rarr;"
+
+#: ../comments.php:87
+msgid "Comments are closed."
+msgstr "Hozzászólások ezen a részen nem engedélyezettek"
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr "Nincs találat"
+
+#: ../content-none.php:21 ../no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Készen áll az első bejegyzése közzétételére? <a href=\"%1$s\">Kezdje el itt!"
+"</a>."
+
+#: ../content-none.php:25 ../no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Sajnos nincs találat a kifejezésre. Próbálja meg más szavakkal!"
+
+#: ../content-none.php:30 ../no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Úgy tűnik, nem található a kért anyag. Talán a kereső segíthet."
+
+#: ../content-page.php:28 ../content-single.php:31 ../content.php:46
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: ../content-page.php:35 ../inc/catchresponsive-core.php:604
+#: ../inc/catchresponsive-core.php:623 ../inc/catchresponsive-core.php:749
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: ../inc/catchresponsive-breadcrumb.php:57
+msgid "Home"
+msgstr "Főoldal"
+
+#: ../inc/catchresponsive-breadcrumb.php:58
+#, php-format
+msgid "%1$s Archive for %2$s"
+msgstr "%1$s Kategória archívum: %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:59
+#, php-format
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$s Keresési találatok: %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:60
+#, php-format
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$sCímkézve: %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:61
+#, php-format
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$sMinden bejegyzés tőle: %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:62
+msgid "Error 404"
+msgstr "404-es hiba"
+
+#: ../inc/catchresponsive-breadcrumb.php:222
+#, php-format
+msgid "Page %s"
+msgstr "Oldal %s"
+
+#: ../inc/catchresponsive-core.php:88 ../inc/catchresponsive-menus.php:27
+msgid "Primary Menu"
+msgstr "Elsődleges menü"
+
+#: ../inc/catchresponsive-core.php:89 ../inc/catchresponsive-menus.php:69
+msgid "Secondary Menu"
+msgstr "Másodlagos menü"
+
+#: ../inc/catchresponsive-core.php:183
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: ../inc/catchresponsive-core.php:189
+msgctxt "Droid Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: ../inc/catchresponsive-core.php:572
+msgid "Post navigation"
+msgstr "Bejegyzés navigáció"
+
+#: ../inc/catchresponsive-core.php:581
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Régebbi cikkek"
+
+#: ../inc/catchresponsive-core.php:582
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Újabb cikkek <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/catchresponsive-core.php:604
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/catchresponsive-core.php:614
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">szerint:</span>"
+
+#: ../inc/catchresponsive-core.php:620
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s-ből"
+
+#: ../inc/catchresponsive-core.php:627
+msgid "Your comment is awaiting moderation."
+msgstr "A hozzászólása moderálásra vár."
+
+#: ../inc/catchresponsive-core.php:730
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">Közzétéve</span>"
+
+#: ../inc/catchresponsive-core.php:737
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">Szerző</span>"
+
+#: ../inc/catchresponsive-core.php:745
+msgid "Leave a comment"
+msgstr "Szóljon hozzá!"
+
+#: ../inc/catchresponsive-core.php:745
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: ../inc/catchresponsive-core.php:745
+msgid "% Comments"
+msgstr "% hozzászólás"
+
+#: ../inc/catchresponsive-core.php:766 ../inc/catchresponsive-core.php:774
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ","
+
+#: ../inc/catchresponsive-core.php:769
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class=\"screen-reader-text\">Kategóriák</span>"
+
+#: ../inc/catchresponsive-core.php:777
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class=\"screen-reader-text\">Címkék</span>"
+
+#: ../inc/catchresponsive-core.php:1386
+msgid "Scroll Up"
+msgstr "Felfelé görgetés"
+
+#: ../inc/catchresponsive-core.php:1404
+msgid "Posted on"
+msgstr "Közzétéve"
+
+#: ../inc/catchresponsive-core.php:1405
+msgid "By"
+msgstr "Írta:"
+
+#: ../inc/catchresponsive-core.php:1447
+msgid "Next &rarr;"
+msgstr "Következő &rarr;"
+
+#: ../inc/catchresponsive-core.php:1448
+msgid "Next post:"
+msgstr "Következő bejegyzés"
+
+#: ../inc/catchresponsive-core.php:1450
+msgid "&larr; Previous"
+msgstr "&larr; Előző"
+
+#: ../inc/catchresponsive-core.php:1451
+msgid "Previous post:"
+msgstr "Előző bejegyzés"
+
+#: ../inc/catchresponsive-default-options.php:57
+msgid "Read More ..."
+msgstr "Tovább ..."
+
+#: ../inc/catchresponsive-default-options.php:68
+msgid "Catch Responsive is a Premium Responsive WordPress Theme"
+msgstr "Catch Responsive is a Premium Responsive WordPress Theme"
+
+#: ../inc/catchresponsive-default-options.php:69
+msgid ""
+"This is promotion headline. You can edit this from Appearance -> Customize -"
+"> Theme Options -> Promotion Headline Options"
+msgstr ""
+"Ez egy promóciós főcím. Szerkeszthető a Megjelenés -> Testreszabás -> Téma "
+"beállítások -> Promotion Headline Options menüpontban"
+
+#: ../inc/catchresponsive-default-options.php:70
+msgid "Reviews"
+msgstr "Értékelések"
+
+#: ../inc/catchresponsive-default-options.php:75
+msgid "Search..."
+msgstr "Keresés..."
+
+#: ../inc/catchresponsive-default-options.php:87
+#: ../inc/catchresponsive-featured-content.php:56
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:21
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:34
+msgid "Featured Content"
+msgstr "Kiemelt tartalom"
+
+#: ../inc/catchresponsive-default-options.php:88
+msgid "Here you can showcase the x number of Featured Content."
+msgstr "Itt tekintheti meg a kiemelt tartalmakat. "
+
+#: ../inc/catchresponsive-default-options.php:117
+msgid "Light"
+msgstr "Világos"
+
+#: ../inc/catchresponsive-default-options.php:118
+msgid "Dark"
+msgstr "Sötét"
+
+#: ../inc/catchresponsive-default-options.php:132
+#: ../inc/catchresponsive-default-options.php:504
+msgid "Primary Sidebar, Content"
+msgstr "Elsődleges oldalsáv, Tartalom"
+
+#: ../inc/catchresponsive-default-options.php:133
+#: ../inc/catchresponsive-default-options.php:509
+msgid "Content, Primary Sidebar"
+msgstr "Tartalom, Elsődleges oldalsáv"
+
+#: ../inc/catchresponsive-default-options.php:134
+#: ../inc/catchresponsive-default-options.php:514
+msgid "No Sidebar ( Content Width )"
+msgstr "Nincs oldalsáv (teljes szélességű tartalom)"
+
+#: ../inc/catchresponsive-default-options.php:147
+#: ../inc/catchresponsive-default-options.php:244
+msgid "Show Excerpt"
+msgstr "Kivonat mutatása"
+
+#: ../inc/catchresponsive-default-options.php:148
+msgid "Show Full Content (No Featured Image)"
+msgstr "Teljes tartalom megjelenítése (nincs kiemelt kép)"
+
+#: ../inc/catchresponsive-default-options.php:162
+#: ../inc/catchresponsive-default-options.php:198
+msgid "Homepage / Frontpage"
+msgstr "Kezdőoldal / Főoldal"
+
+#: ../inc/catchresponsive-default-options.php:163
+msgid "Excluding Homepage"
+msgstr "Kivéve kezdőoldal"
+
+#: ../inc/catchresponsive-default-options.php:164
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "Kivéve kezdőoldal, oldal/bejegyzés kiemelt kép"
+
+#: ../inc/catchresponsive-default-options.php:165
+#: ../inc/catchresponsive-default-options.php:199
+msgid "Entire Site"
+msgstr "Teljes webhely"
+
+#: ../inc/catchresponsive-default-options.php:166
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Teljes webhely, oldal/bejegyzés kiemelt kép"
+
+#: ../inc/catchresponsive-default-options.php:167
+msgid "Pages and Posts"
+msgstr "Oldalak és bejegyzések"
+
+#: ../inc/catchresponsive-default-options.php:168
+#: ../inc/catchresponsive-default-options.php:200
+#: ../inc/catchresponsive-default-options.php:333
+msgid "Disabled"
+msgstr "Letiltva"
+
+#: ../inc/catchresponsive-default-options.php:182
+#: ../inc/catchresponsive-default-options.php:567
+msgid "Full Image"
+msgstr "Teljes kép"
+
+#: ../inc/catchresponsive-default-options.php:183
+msgid "Large Image"
+msgstr "Nagy kép"
+
+#: ../inc/catchresponsive-default-options.php:184
+msgid "Slider Image"
+msgstr "Slider Kép"
+
+#: ../inc/catchresponsive-default-options.php:214
+msgid "Demo Featured Content"
+msgstr "Demo kiemelt tartalom"
+
+#: ../inc/catchresponsive-default-options.php:215
+msgid "Featured Page Content"
+msgstr "Kiemelt oldal tartalom"
+
+#: ../inc/catchresponsive-default-options.php:229
+msgid "3 columns"
+msgstr "3 oszlop"
+
+#: ../inc/catchresponsive-default-options.php:230
+msgid "4 columns"
+msgstr "4 oszlop"
+
+#: ../inc/catchresponsive-default-options.php:245
+msgid "Show Full Content"
+msgstr "Teljes tartalom megjelenítése"
+
+#: ../inc/catchresponsive-default-options.php:246
+msgid "Hide Content"
+msgstr "Tartalom elrejtése"
+
+#: ../inc/catchresponsive-default-options.php:260
+msgid "Demo Featured Slider"
+msgstr "Demo kiemelt slider"
+
+#: ../inc/catchresponsive-default-options.php:261
+msgid "Featured Page Slider"
+msgstr "Kiemelt Slider"
+
+#: ../inc/catchresponsive-default-options.php:275
+msgid "Fade"
+msgstr "Elhalványítás"
+
+#: ../inc/catchresponsive-default-options.php:276
+msgid "Fade Out"
+msgstr "Eltűnés"
+
+#: ../inc/catchresponsive-default-options.php:277
+msgid "None"
+msgstr "Semmi"
+
+#: ../inc/catchresponsive-default-options.php:278
+msgid "Scroll Horizontal"
+msgstr "Vízszintes görgetés"
+
+#: ../inc/catchresponsive-default-options.php:279
+msgid "Scroll Vertical"
+msgstr "Függőleges görgetés"
+
+#: ../inc/catchresponsive-default-options.php:280
+msgid "Flip Horizontal"
+msgstr "Vízszintes tükrözés"
+
+#: ../inc/catchresponsive-default-options.php:281
+msgid "Flip Vertical"
+msgstr "Függőleges tükrözés"
+
+#: ../inc/catchresponsive-default-options.php:282
+msgid "Tile Slide"
+msgstr "Mozaik Slide"
+
+#: ../inc/catchresponsive-default-options.php:283
+msgid "Tile Blind"
+msgstr "Mozaik Blind"
+
+#: ../inc/catchresponsive-default-options.php:284
+msgid "Shuffle"
+msgstr "Összekevert"
+
+#: ../inc/catchresponsive-default-options.php:298
+msgid "True"
+msgstr "Igaz"
+
+#: ../inc/catchresponsive-default-options.php:299
+msgid "Wait"
+msgstr "Várjon..."
+
+#: ../inc/catchresponsive-default-options.php:300
+msgid "False"
+msgstr "Hamis"
+
+#: ../inc/catchresponsive-default-options.php:314
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "Alapértelmezett (Régebbi bejegyzések / Újabb bejegyzések)"
+
+#: ../inc/catchresponsive-default-options.php:315
+msgid "Numeric"
+msgstr "Numerikus"
+
+#: ../inc/catchresponsive-default-options.php:316
+msgid "Infinite Scroll (Click)"
+msgstr "Végtelen görgetés (kattintás)"
+
+#: ../inc/catchresponsive-default-options.php:317
+msgid "Infinite Scroll (Scroll)"
+msgstr "Végtelen görgetés (görgetés)"
+
+#: ../inc/catchresponsive-default-options.php:331
+msgid "Featured"
+msgstr "Featured"
+
+#: ../inc/catchresponsive-default-options.php:332
+msgid "Full Size"
+msgstr "Teljes méret"
+
+#: ../inc/catchresponsive-default-options.php:353
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:70
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/catchresponsive-default-options.php:357
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/catchresponsive-default-options.php:361
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: ../inc/catchresponsive-default-options.php:365
+#: ../inc/catchresponsive-social-icons.php:36
+msgid "Email"
+msgstr "E-mail cím"
+
+#: ../inc/catchresponsive-default-options.php:369
+msgid "Feed"
+msgstr "Hírcsatorna"
+
+#: ../inc/catchresponsive-default-options.php:373
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../inc/catchresponsive-default-options.php:377
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/catchresponsive-default-options.php:381
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../inc/catchresponsive-default-options.php:385
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:82
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/catchresponsive-default-options.php:389
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/catchresponsive-default-options.php:393
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/catchresponsive-default-options.php:397
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/catchresponsive-default-options.php:401
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/catchresponsive-default-options.php:405
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/catchresponsive-default-options.php:409
+msgid "PollDaddy"
+msgstr "PollDaddy"
+
+#: ../inc/catchresponsive-default-options.php:413
+msgid "CodePen"
+msgstr "CodePen"
+
+#: ../inc/catchresponsive-default-options.php:417
+msgid "Path"
+msgstr "Path"
+
+#: ../inc/catchresponsive-default-options.php:421
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/catchresponsive-default-options.php:425
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/catchresponsive-default-options.php:429
+msgid "Digg"
+msgstr "Digg"
+
+#: ../inc/catchresponsive-default-options.php:433
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../inc/catchresponsive-default-options.php:437
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: ../inc/catchresponsive-default-options.php:441
+msgid "Pocket"
+msgstr "Pocket"
+
+#: ../inc/catchresponsive-default-options.php:445
+msgid "DropBox"
+msgstr "DropBox"
+
+#: ../inc/catchresponsive-default-options.php:449
+msgid "Spotify"
+msgstr "Spotify"
+
+#: ../inc/catchresponsive-default-options.php:453
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: ../inc/catchresponsive-default-options.php:457
+msgid "Twitch"
+msgstr "Twitch"
+
+#: ../inc/catchresponsive-default-options.php:461
+msgid "Website"
+msgstr "Website"
+
+#: ../inc/catchresponsive-default-options.php:465
+msgid "Phone"
+msgstr "Phone"
+
+#: ../inc/catchresponsive-default-options.php:469
+msgid "Handset"
+msgstr "Handset"
+
+#: ../inc/catchresponsive-default-options.php:473
+msgid "Cart"
+msgstr "Cart"
+
+#: ../inc/catchresponsive-default-options.php:477
+msgid "Cloud"
+msgstr "Cloud"
+
+#: ../inc/catchresponsive-default-options.php:481
+msgid "Link"
+msgstr "Link"
+
+#: ../inc/catchresponsive-default-options.php:499
+#: ../inc/catchresponsive-default-options.php:530
+#: ../inc/catchresponsive-default-options.php:557
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: ../inc/catchresponsive-default-options.php:535
+msgid "Enable"
+msgstr "Bekapcsolás"
+
+#: ../inc/catchresponsive-default-options.php:540
+msgid "Disable"
+msgstr "Kikapcsolás"
+
+#: ../inc/catchresponsive-default-options.php:562
+msgid "Featured Image"
+msgstr "Kiemelt kép"
+
+#: ../inc/catchresponsive-default-options.php:572
+msgid "Disable Image"
+msgstr "Kép kikapcsolása"
+
+#: ../inc/catchresponsive-default-options.php:587
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1s. %2s Minden jog fenntartva."
+
+#: ../inc/catchresponsive-default-options.php:587
+#, fuzzy
+#| msgctxt "yearly archives date format"
+#| msgid "Y"
+msgid "Y"
+msgstr "Y"
+
+#: ../inc/catchresponsive-default-options.php:589
+msgid "by"
+msgstr "írta:"
+
+#: ../inc/catchresponsive-featured-content.php:57
+msgid ""
+"Here you can showcase the x number of Featured Content. You can edit this "
+"Headline, Subheadline and Feaured Content from \"Appearance -> Customize -> "
+"Featured Content Options\"."
+msgstr ""
+"Itt tekintheti meg a kiemelt tartalmakat. Szerkeszthető a \"Megjelenés -> "
+"Testreszabás -> Kiemelt tartalom beállítások\" menüpontban."
+
+#: ../inc/catchresponsive-featured-content.php:256
+#: ../inc/catchresponsive-featured-slider.php:178
+msgid "Permalink to: "
+msgstr "Ugrás ide:"
+
+#: ../inc/catchresponsive-menus.php:28 ../inc/catchresponsive-menus.php:70
+msgid "Skip to content"
+msgstr "Tovább a tartalomhoz"
+
+#: ../inc/catchresponsive-menus.php:146 ../inc/catchresponsive-menus.php:165
+msgid "Menu"
+msgstr "Menü"
+
+#: ../inc/catchresponsive-metabox.php:93
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:180
+msgid "Layout Options"
+msgstr "Oldalelrendezés"
+
+#: ../inc/catchresponsive-metabox.php:94
+msgid "Header Featured Image Options"
+msgstr "Fejrész kiemelt kép tulajdonságai"
+
+#: ../inc/catchresponsive-metabox.php:95
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:218
+msgid "Single Page/Post Image Layout "
+msgstr "Aloldal / Hozzászólás kép elrendezés"
+
+#: ../inc/catchresponsive-metabox.php:221
+msgid "Catch Responsive Options"
+msgstr "Catch Responsive opciók"
+
+#: ../inc/catchresponsive-widgets.php:30
+msgid "Primary Sidebar"
+msgstr "Elsődleges oldalsáv"
+
+#: ../inc/catchresponsive-widgets.php:36
+msgid ""
+"This is the primary sidebar if you are using a two or three column site "
+"layout option."
+msgstr ""
+"Ez az elsődleges oldalsáv, ha a két vagy három oszlopos elrendezést "
+"használja."
+
+#: ../inc/catchresponsive-widgets.php:43
+#, php-format
+msgid "Footer Area %d"
+msgstr "%d lábrész"
+
+#: ../inc/catchresponsive-widgets.php:49
+#, php-format
+msgid "Footer %d widget area."
+msgstr "%d lábléc widget terület"
+
+#: ../inc/catchresponsive-widgets.php:69
+msgid "CT: Social Icons"
+msgstr "Közösségi ikonok"
+
+#: ../inc/catchresponsive-widgets.php:70
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr ""
+"Használja ezt a widgetet, hogy a közösségi ikonokat widgetként tudja "
+"megjeleníteni."
+
+#: ../inc/catchresponsive-widgets.php:111
+msgid "Title (optional):"
+msgstr "Cím (opcionális):"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:25
+#, fuzzy
+#| msgid "Select Categories"
+msgid "All Categories"
+msgstr "Kategória választása"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:37
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+"A Ctrl (Windows) / Command (Mac) gomb lenyomva tartásával több is "
+"kiválasztható."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:50
+msgid "Theme Instructions"
+msgstr "Téma utasítások"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:54
+msgid "Support"
+msgstr "Támogatás"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:58
+msgid "Changelog"
+msgstr "Változások"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:62
+msgid "Donate Now"
+msgstr "Támogatás"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:66
+msgid "Review"
+msgstr "Értékelések"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:78
+msgid "Google+"
+msgstr "Google+"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:19
+msgid "Options for Featured Content"
+msgstr "Kiemelt tartalom tulajdonságai"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:28
+msgid "Featured Content Options"
+msgstr "Kiemelt tartalom beállításai"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:46
+msgid "Enable Featured Content on"
+msgstr "Kiemelt tartalom engedélyezése"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:62
+msgid "Select Featured Content Layout"
+msgstr "Kiemelt tartalom elrendezésésének választása"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:77
+msgid "Check to Move above Footer"
+msgstr "Áthelyezés a lábléc felé"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:93
+msgid "Select Content Type"
+msgstr "Tartalomtípus kiválasztása"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:108
+msgid "Leave field empty if you want to remove Headline"
+msgstr "Hagyja üresen a Főcím eltávolításához"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:109
+msgid "Headline for Featured Content"
+msgstr "Főcím a kiemelt tartalomhoz"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:125
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "Hagyja üresen az Alcím eltávolításához"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:126
+msgid "Sub-headline for Featured Content"
+msgstr "Alcím a kiemelt tartalomhoz"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:142
+msgid ""
+"Save and refresh the page if No. of Featured Content is changed (Max no of "
+"Featured Content is 20)"
+msgstr ""
+"Mentse és frissítse az oldalt, ha a kiemelt tartalmak száma változott "
+"(maximum 20 lehet)"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:149
+msgid "No of Featured Content"
+msgstr "Kiemelt tartalmak száma"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:166
+msgid "Display Content"
+msgstr "Tartalom megjelenítése"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:184
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:171
+msgid "Featured Page"
+msgstr "Kiemelt oldal"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:19
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:27
+msgid "Featured Slider Options"
+msgstr "Kiemelt Slider opciók"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:21
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:33
+msgid "Featured Slider"
+msgstr "Kiemelt Slider"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:45
+msgid "Enable Slider on"
+msgstr "Engedélyezze a Slidert "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:61
+msgid "Transition Effect"
+msgstr "Áttünési effektus"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:77
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:96
+msgid "seconds(s)"
+msgstr "másodperc"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:81
+msgid "Transition Delay"
+msgstr "Áttünés késleltetése"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:100
+msgid "Transition Length"
+msgstr "Áttünés hossza"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:116
+msgid "Image Loader"
+msgstr "Kép betöltő"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:132
+msgid "Select Slider Type"
+msgstr "Válasszon Slider típust"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:147
+msgid ""
+"Save and refresh the page if No. of Slides is changed (Max no of slides is "
+"20)"
+msgstr ""
+"Mentse és frissítse az oldalt, ha a Slider képek száma változott (maximum 20 "
+"lehet)"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:154
+msgid "No of Slides"
+msgstr "Képek száma"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:25
+msgid "Enable Featured Header Image on "
+msgstr "Kiemelt fejléc kép engedélyezése"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:40
+msgid "Page/Post Featured Header Image Size"
+msgstr "Oldal / Hozzászólás kiemelt kép mérete"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:53
+msgid "Featured Header Image Alt/Title Tag "
+msgstr "Kiemelt fejléc kép Alt/Title cimke"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:66
+msgid "Featured Header Image Link URL"
+msgstr "Fejrész kiemelt kép URL címe"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:79
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:363
+msgid "Check to Open Link in New Window/Tab"
+msgstr "Hivatkozás megnyitása új ablakon/fülön"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:19
+msgid "Note: Enter the url for correponding social networking website"
+msgstr "Megjegyzés: Írja be a megfelelő közösségi hálózat weblapcímét"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:21
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:28
+msgid "Social Links"
+msgstr "Közösségi linkek"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:45
+msgid ""
+"Skype link can be of formats:<br>callto://+{number}<br> skype:{username}?"
+"{action}. More Information in readme file"
+msgstr ""
+"Skype link a következő formátumú lehet:<br>callto://+{szám}<br> skype: "
+"{felhasználónév}?{művelet}. További információ a readme fájlban."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:20
+msgid "Basic theme Options"
+msgstr "Alap téma beállítások"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:23
+msgid "Theme Options"
+msgstr "Téma beállítások"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:29
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site with just a glance. You can enable/disable them on homepage and "
+"entire site."
+msgstr ""
+"A Breadcrumbs (kenyérmorzsa) nagyszerű módja annak, hogy a látogatók egy "
+"pillantás alatt lássák, hogy a honlap melyik részén járnak éppen. "
+"Engedélyezheti / letilthatja őket a honlapon, vagy az egész webhelyen."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:31
+msgid "Breadcrumb Options"
+msgstr "Breadcrumb opciók"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:42
+msgid "Check to enable Breadcrumb"
+msgstr "Breadcrumb engedélyezése"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:55
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "Breadcrumb engedélyezése a honlapon"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:71
+msgid "Separator between Breadcrumbs"
+msgstr "Elválasztójel"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:86
+msgid "Custom/Inline CSS"
+msgstr "Egyéni CSS"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:89
+msgid "Custom CSS Options"
+msgstr "Egyéni CSS opciók"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:99
+msgid "Enter Custom CSS"
+msgstr "Egyéni CSS megadása"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:112
+msgid "Excerpt Options"
+msgstr "Kivonat tulajdonságai"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:122
+msgid "Excerpt length. Default is 55 words"
+msgstr "Kivonat hossza. Alapértelmezett a 55 szó"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:129
+msgid "Excerpt Length (words)"
+msgstr "Kivonat hossza (szavak száma)"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:143
+msgid "Read More Text"
+msgstr "Tovább ..."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:152
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr ""
+"Csak az itt kiválasztott kategóriába tartozó hozzászólások jelennek meg a "
+"címlapon"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:155
+msgid "Homepage / Frontpage Options"
+msgstr "Kezdőoldal / Főoldal tulajdonságai"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:165
+msgid "Select Categories"
+msgstr "Kategória választása"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:191
+msgid "Default Layout"
+msgstr "Alapértelmezett elrendezés"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:205
+msgid "Archive Content Layout"
+msgstr "Archív tartalom elrendezése"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:229
+#, fuzzy, php-format
+#| msgid ""
+#| "Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi "
+#| "Plugin</a>.<br/>Infinite Scroll Options requires <a target=\"_blank\" "
+#| "href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgid ""
+"Numeric Option requires <a target=\"_blank\" href=\"%1$s\">WP-PageNavi "
+"Plugin</a>.<br/>Infinite Scroll Options requires <a target=\"_blank\" href="
+"\"%2$s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr ""
+"Az oldalszámozás a <a target=\"_blank\" href=\"%s\">WP-PageNavi Plugin</a>-t "
+"igényli. <br/>A végtelen scrollozáshoz a <a target=\"_blank\" href=\"%s"
+"\">JetPack Plugin</a> szükséges, és engedélyezni kell benne az Infinite "
+"Scroll modult."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:236
+#, php-format
+msgid ""
+"Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack "
+"Plugin</a> with Infinite Scroll module Enabled."
+msgstr ""
+"A végtelen scrollozáshoz a <a target=\"_blank\" href=\"%s\">JetPack Plugin</"
+"a> szükséges, és engedélyezni kell benne az Infinite Scroll modult."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:247
+#, php-format
+msgid ""
+"Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi Plugin</"
+"a>."
+msgstr ""
+"Az oldalszámozás a <a target=\"_blank\" href=\"%s\">WP-PageNavi Plugin</a>-t "
+"igényli."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:258
+msgid "Pagination Options"
+msgstr "Oldalszámozás tulajdonságai"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:269
+msgid "Pagination type"
+msgstr "Oldalszámozás típusa"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:278
+msgid "To disable the fields, simply leave them empty."
+msgstr "A mezők letiltásához egyszerűen csak hagyja őket üresen."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:281
+msgid "Promotion Headline Options"
+msgstr "Promóciós főcím tulajdonságai"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:292
+msgid "Enable Promotion Headline on"
+msgstr "Promóciós főcím engedélyezése"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:306
+msgid "Appropriate Words: 10"
+msgstr "Megfelelő szavak: 10"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:307
+msgid "Promotion Headline Text"
+msgstr "Promóciós főcím szövege"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:320
+msgid "Appropriate Words: 15"
+msgstr "Megfelelő szavak: 15"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:321
+msgid "Promotion Subheadline Text"
+msgstr "Promóciós alcím szövege"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:334
+msgid "Appropriate Words: 3"
+msgstr "Megfelelő szavak: 3"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:335
+msgid "Promotion Headline Button Text "
+msgstr "Promóciós főcím gomb  szövege"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:349
+msgid "Promotion Headline Link"
+msgstr "Promóciós főcím linkje"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:375
+msgid "Scrollup Options"
+msgstr "Scrollup opciók"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:385
+msgid "Check to disable Scroll Up"
+msgstr ""
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:394
+msgid "Change default placeholder text in Search."
+msgstr "Keresésben megjelenő alap szöveg megváltoztatása."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:397
+msgid "Search Options"
+msgstr "Keresés opciók"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:407
+msgid "Default Display Text in Search"
+msgstr "Keresésben megjelenő alap szöveg"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:53
+msgid "Logo"
+msgstr "Logó"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:66
+msgid "Check to disable logo"
+msgstr "Logó kikapcsolása"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:80
+msgid "Logo Alt Text"
+msgstr "Logó szöveg"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:95
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "Honlap címének és egysoros leírásának áthelyzése a logó elé"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:113
+msgid "Color Scheme"
+msgstr "Színséma"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:128
+msgid "Mobile Menu Color Scheme"
+msgstr ""
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:152
+msgid ""
+"Caution: Reset all settings to default. Refresh the page after save to view "
+"full effects."
+msgstr ""
+"Figyelem! Minden beállítás alapértékre állítása. Frissítse az oldalt, hogy "
+"lássa az eredményt."
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:154
+msgid "Reset all settings"
+msgstr "Minden beállítás visszaállítása"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:165
+msgid "Check to reset all settings to default"
+msgstr "Minden beállítás visszaállítása az alapértékre"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:175
+#: ../inc/customizer-includes/catchresponsive-customizer.php:186
+msgid "Important Links"
+msgstr "Fontos hivatkozások"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:220
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr ""
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Catch Responsive Pro"
+msgstr "Catch Responsive Pro"
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: ../no-results.php:14
+msgid "Error 404-Page NOT Found"
+msgstr "404-es hiba - Az oldal nem található"
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Keresési találatok: %s"
+
+#: ../searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Keresés:"
+
+#: ../searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Keresés"
+
+#: ../sidebar.php:40
+msgid "Primary Sidebar Widget Area"
+msgstr "Az elsődleges oldalsáv widget terület"
+
+#: ../sidebar.php:43
+msgid ""
+"This is the Primary Sidebar Widget Area if you are using a two or three "
+"column site layout option."
+msgstr ""
+"Ez az elsődleges oldalsáv, ha a két vagy három oszlopos elrendezést "
+"használja."
+
+#: ../sidebar.php:44
+#, php-format
+msgid ""
+"By default it will load Search and Archives widgets as shown below. You can "
+"add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> "
+"which will replace default widgets."
+msgstr ""
+"Alapértelmezésben a Keresés és az Archívum widget fog megjelenni. Felvehet "
+"widgeteket erre a területre, ha ellátogat a <a href=\"%s\">Widget Panel</a> "
+"oldalra, amelyel lecserélheti az alapértelmezett widgeteket."
+
+#: ../sidebar.php:57
+msgid "Archives"
+msgstr "Archívum"
+
+#~ msgid "Search"
+#~ msgstr "Keresés"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Remove Icon images to disable."
+#~ msgstr "Távolítsa el az Ikonokat a kikapcsoláshoz"
+
+#~ msgid "Icon Options"
+#~ msgstr "Ikon tulajdonságok"
+
+#~ msgid "Select/Add Favicon"
+#~ msgstr "Honlap ikon kiválasztása / hozzáadása"
+
+#~ msgid ""
+#~ "Web Clip Icon for Apple devices. Recommended Size - Width 144px and "
+#~ "Height 144px height, which will support High Resolution Devices like iPad "
+#~ "Retina."
+#~ msgstr ""
+#~ "Web Clip Icon Apple eszközökhöz. Ajánlott méret: 144px x 144px, amely "
+#~ "támogatja a nagy felbontású készülékeket, mint pl. iPad Retina."
+
+#~ msgid "Select/Add Web Clip Icon"
+#~ msgstr "Web Clip ikon kiválasztása / hozzáadása"
+
+#, fuzzy
+#~ msgid "Catch Responsive"
+#~ msgstr "Catch Responsive opciók"
+
+#~ msgid "Upgrade To Pro &raquo;"
+#~ msgstr "Frissítés Pro Verzióra"
+
+#~ msgid "Author: %s"
+#~ msgstr "Szerző: %s"
+
+#~ msgid "Day: %s"
+#~ msgstr "Nap: %s"
+
+#~ msgid "Month: %s"
+#~ msgstr "Hónap: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "Y. F"
+
+#~ msgid "Year: %s"
+#~ msgstr "Év: %s"
+
+#~ msgid "Asides"
+#~ msgstr "Közbevetések"
+
+#~ msgid "Galleries"
+#~ msgstr "Galériák"
+
+#~ msgid "Images"
+#~ msgstr "Képek"
+
+#~ msgid "Videos"
+#~ msgstr "Videók"
+
+#~ msgid "Quotes"
+#~ msgstr "Idézetek"
+
+#~ msgid "Links"
+#~ msgstr "Hivatkozások"
+
+#~ msgid "Statuses"
+#~ msgstr "Állapot üzenetek"
+
+#~ msgid "Audios"
+#~ msgstr "Hangok"
+
+#~ msgid "Chats"
+#~ msgstr "Beszélgetés naplók"
+
+#~ msgctxt "Used before publish date."
+#~ msgid "<span class=\"screen-reader-text\">Posted on</span>"
+#~ msgstr "<span class=\"screen-reader-text\">Közzétéve</span>"
+
+#~ msgctxt "Used before post author name."
+#~ msgid "<span class=\"screen-reader-text\">Author</span>"
+#~ msgstr "<span class=\"screen-reader-text\">Szerző</span>"
+
+#~ msgid ""
+#~ "Some settings might be missing or disorganized in this version of "
+#~ "WordPress. So we suggest you to upgrade to version 4.0 or better."
+#~ msgstr ""
+#~ "Néhány beállítás esetleg hiányzik, vagy szervezetlen ebben a WordPress "
+#~ "verzióban. Javasoljuk, hogy frissítsen 4.0 vagy annál újabb verzóra."
+
+#~ msgid "Catchresponsive Options"
+#~ msgstr "Catchresponsive Options"
+
+#~ msgid "StumbleUpon"
+#~ msgstr "StumbleUpon"
+
+#~ msgid "Catch Base is a Premium Responsive WordPress Theme"
+#~ msgstr "Catch Base egy prémium, felbontásérzékeny WordPress téma"
+
+#~ msgid "Three Columns ( Secondary Sidebar, Content, Primary Sidebar )"
+#~ msgstr "Három oszlop (Másodlagos oldalsáv, Tartalom, Elsődleges oldalsáv)"
+
+#~ msgid "Large"
+#~ msgstr "Nagy"
+
+#~ msgid "Medium"
+#~ msgstr "Közepes"
+
+#~ msgid "Full size"
+#~ msgstr "Teljes méret"
+
+#~ msgid "Slider Image Size"
+#~ msgstr "Slider képméret"
+
+#~ msgid "Permalink to:"
+#~ msgstr "Ugrás ide:"
+
+#~ msgid "Catchbase Options"
+#~ msgstr "Catchbase opciók"
+
+#~ msgid "Secondary Sidebar"
+#~ msgstr "Másodlagos oldalsáv"
+
+#~ msgid ""
+#~ "This is the secondary sidebar if you are using a three column site layout "
+#~ "option."
+#~ msgstr ""
+#~ "Ez a másodlagos oldalsáv, ha a három oszlopos elrendezést használja."
+
+#~ msgid ""
+#~ "True: Fixes the height overlap issue. Slideshow will start as soon as two "
+#~ "slider are available. Slide may display in random, as image is fetch."
+#~ "<br>Wait: Fixes the height overlap issue.<br> Slideshow will start only "
+#~ "after all images are available."
+#~ msgstr ""
+#~ "Igen: Kijavítja a magasság átfedési porblémákat. A diavetítés elindul, "
+#~ "ahogy már két kép a rendelkezésre áll. A megjelenítés véletlenszerű lehet "
+#~ "a képek letöltödésének sorrendje miatt. <br> Várjon: Kijavítja a magasság "
+#~ "átfedési problémákat. <br> A diavetítés csak akkor veszi kezdetét, ha az "
+#~ "összes kép a rendelkezésre áll."
+
+#~ msgid "Excerpt length. Default is 40 words"
+#~ msgstr "Kivonat hossza. Alapértelmezett a 40 szó"
+
+#~ msgid "Secondary Sidebar Widget Area"
+#~ msgstr "Másodlagos oldalsáv widget terület"
+
+#~ msgid ""
+#~ "This is the Secondary Sidebar Widget Area if you are using a three column "
+#~ "site layout option."
+#~ msgstr ""
+#~ "Ez a másodlagos oldalsáv, ha a három oszlopos elrendezést használja."
+
+#~ msgid "Featured Content Settings"
+#~ msgstr "Kiemelt tartalom beállításai"
+
+#~ msgid "Featured Content Type"
+#~ msgstr "Kiemelt tartalom típusa"
+
+#~ msgid "Featured Slider Settings"
+#~ msgstr "Kiemelt Slider beállítások"
+
+#~ msgid "Featured Slider Type"
+#~ msgstr "Kiemelt Slider típusa"
+
+#~ msgid "Seperator between Breadcrumbs"
+#~ msgstr "Elválasztójel"

@@ -1,0 +1,1314 @@
+# Copyright (C) 2015 the Catch Themes Team
+# This file is distributed under the  GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Responsive\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2017-08-27 23:19+0545\n"
+"PO-Revision-Date: 2017-08-27 23:19+0545\n"
+"Last-Translator: Kurt <catchme@vindu.dk>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;"
+"_nx:1,2,4c;esc_html__;esc_html_e;esc_attr_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hov! Den side findes ikke."
+
+#: ../404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Det ligner intet blev fundet på denne placering. Måske prøve en af ​​"
+"nedenstående links eller en søgning?"
+
+#: ../comments.php:30
+#, fuzzy, php-format
+#| msgctxt "comments title"
+#| msgid "One thought on &ldquo;%2$s&rdquo;"
+#| msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "En mening om &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:35
+#, fuzzy, php-format
+#| msgctxt "comments title"
+#| msgid "One thought on &ldquo;%2$s&rdquo;"
+#| msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En mening om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s meninger om &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:50 ../comments.php:75
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#: ../comments.php:51 ../comments.php:76
+msgid "&larr; Older Comments"
+msgstr "&larr; Ældre kommentarer"
+
+#: ../comments.php:52 ../comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: ../comments.php:87
+msgid "Comments are closed."
+msgstr "Kommentarer er lukket"
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: ../content-none.php:21 ../no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klar til at udgive dit første indlæg? <a href=\"%1$s\"> Kom godt i gang her "
+"</a>."
+
+#: ../content-none.php:25 ../no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Beklager, men intet matchede dine søgetermer. Prøv venligst igen med nogle "
+"forskellige søgeord."
+
+#: ../content-none.php:30 ../no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det synes vi ikke kan finde det, du leder efter. Måske søger kan hjælpe."
+
+#: ../content-page.php:28 ../content-single.php:31 ../content.php:46
+msgid "Pages:"
+msgstr "Sider:"
+
+#: ../content-page.php:35 ../inc/catchresponsive-core.php:604
+#: ../inc/catchresponsive-core.php:623 ../inc/catchresponsive-core.php:749
+msgid "Edit"
+msgstr "Rediger"
+
+#: ../inc/catchresponsive-breadcrumb.php:57
+msgid "Home"
+msgstr "Forside"
+
+#: ../inc/catchresponsive-breadcrumb.php:58
+#, php-format
+msgid "%1$s Archive for %2$s"
+msgstr "%1$s Arkiv for %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:59
+#, php-format
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$s Søgeresultater for: %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:60
+#, php-format
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$sPosts tagget %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:61
+#, php-format
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$s Se alle poster af %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:62
+msgid "Error 404"
+msgstr "Fejl 404"
+
+#: ../inc/catchresponsive-breadcrumb.php:222
+#, php-format
+msgid "Page %s"
+msgstr "Side %s"
+
+#: ../inc/catchresponsive-core.php:88 ../inc/catchresponsive-menus.php:27
+msgid "Primary Menu"
+msgstr "Primær Menu"
+
+#: ../inc/catchresponsive-core.php:89 ../inc/catchresponsive-menus.php:69
+msgid "Secondary Menu"
+msgstr "Sekundær menu"
+
+#: ../inc/catchresponsive-core.php:183
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "På"
+
+#: ../inc/catchresponsive-core.php:189
+msgctxt "Droid Sans font: on or off"
+msgid "on"
+msgstr "På"
+
+#: ../inc/catchresponsive-core.php:572 ../inc/catchresponsive-core.php:1465
+msgid "Post navigation"
+msgstr "indlægs navigation"
+
+#: ../inc/catchresponsive-core.php:581
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\"> ← </ span> Ældre indlæg"
+
+#: ../inc/catchresponsive-core.php:582
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyere indlæg <span class=\"meta-nav\"> → </ span>"
+
+#: ../inc/catchresponsive-core.php:604
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/catchresponsive-core.php:614
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">skriver:</span>"
+
+#: ../inc/catchresponsive-core.php:620
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#: ../inc/catchresponsive-core.php:627
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar venter på at blive godkendt"
+
+#: ../inc/catchresponsive-core.php:730
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">Udgivet den</span>"
+
+#: ../inc/catchresponsive-core.php:737
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">Forfatter</span>"
+
+#: ../inc/catchresponsive-core.php:745
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+#: ../inc/catchresponsive-core.php:745
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: ../inc/catchresponsive-core.php:745
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: ../inc/catchresponsive-core.php:766 ../inc/catchresponsive-core.php:774
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: ../inc/catchresponsive-core.php:769
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class=\"screen-reader-text\">kategorier</span>"
+
+#: ../inc/catchresponsive-core.php:777
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class=\"screen-reader-text\">Tags</span>"
+
+#: ../inc/catchresponsive-core.php:1386
+msgid "Scroll Up"
+msgstr "Rul op"
+
+#: ../inc/catchresponsive-core.php:1404
+msgid "Posted on"
+msgstr "Udgivet den"
+
+#: ../inc/catchresponsive-core.php:1405
+msgid "By"
+msgstr "Af"
+
+#: ../inc/catchresponsive-core.php:1447
+msgid "Next &rarr;"
+msgstr "Næste &rarr;"
+
+#: ../inc/catchresponsive-core.php:1448
+msgid "Next post:"
+msgstr "Næste indlæg:"
+
+#: ../inc/catchresponsive-core.php:1450
+msgid "&larr; Previous"
+msgstr "&larr; Forrige"
+
+#: ../inc/catchresponsive-core.php:1451
+msgid "Previous post:"
+msgstr "Forrige indlæg:"
+
+#: ../inc/catchresponsive-default-options.php:57
+msgid "Read More ..."
+msgstr "Læs mere ..."
+
+#: ../inc/catchresponsive-default-options.php:68
+msgid "Catch Responsive is a Premium Responsive WordPress Theme"
+msgstr "Catch Responsive er et Premium Responsivt WordPress Tema"
+
+#: ../inc/catchresponsive-default-options.php:69
+msgid ""
+"This is promotion headline. You can edit this from Appearance -> Customize -"
+"> Theme Options -> Promotion Headline Options"
+msgstr ""
+"Dette er en promoverings overskrift. Du kan ændre denne fra Udseende -> "
+"Customize -> Tema Indstillinger -> Promoverings Overskrift."
+
+#: ../inc/catchresponsive-default-options.php:70
+msgid "Reviews"
+msgstr "Anmeldelser"
+
+#: ../inc/catchresponsive-default-options.php:75
+msgid "Search..."
+msgstr "Søg..."
+
+#: ../inc/catchresponsive-default-options.php:87
+#: ../inc/catchresponsive-featured-content.php:56
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:21
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:34
+msgid "Featured Content"
+msgstr "Udvalgte indhold"
+
+#: ../inc/catchresponsive-default-options.php:88
+msgid "Here you can showcase the x number of Featured Content."
+msgstr "Her kan du vise x antal fremhævet indhold. "
+
+#: ../inc/catchresponsive-default-options.php:117
+msgid "Light"
+msgstr "Lys"
+
+#: ../inc/catchresponsive-default-options.php:118
+msgid "Dark"
+msgstr "Mørk"
+
+#: ../inc/catchresponsive-default-options.php:132
+#: ../inc/catchresponsive-default-options.php:504
+msgid "Primary Sidebar, Content"
+msgstr "Primære Sidebar, Indhold"
+
+#: ../inc/catchresponsive-default-options.php:133
+#: ../inc/catchresponsive-default-options.php:509
+msgid "Content, Primary Sidebar"
+msgstr "Indhold, Primære sidebar"
+
+#: ../inc/catchresponsive-default-options.php:134
+#: ../inc/catchresponsive-default-options.php:514
+msgid "No Sidebar ( Content Width )"
+msgstr "Ingen sidebar (indholds bredde)"
+
+#: ../inc/catchresponsive-default-options.php:147
+#: ../inc/catchresponsive-default-options.php:244
+msgid "Show Excerpt"
+msgstr "Vis resumé"
+
+#: ../inc/catchresponsive-default-options.php:148
+msgid "Show Full Content (No Featured Image)"
+msgstr "Vis fuldt indhold (Ingen Billeder)"
+
+#: ../inc/catchresponsive-default-options.php:162
+#: ../inc/catchresponsive-default-options.php:198
+msgid "Homepage / Frontpage"
+msgstr "Homepage / Forside"
+
+#: ../inc/catchresponsive-default-options.php:163
+msgid "Excluding Homepage"
+msgstr "Udelad Forsiden"
+
+#: ../inc/catchresponsive-default-options.php:164
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "Ekskluder Homepage, Side / Post Billede"
+
+#: ../inc/catchresponsive-default-options.php:165
+#: ../inc/catchresponsive-default-options.php:199
+msgid "Entire Site"
+msgstr "Hele siden"
+
+#: ../inc/catchresponsive-default-options.php:166
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Hele siden, Indlæg/Side fremvisningsbillede"
+
+#: ../inc/catchresponsive-default-options.php:167
+msgid "Pages and Posts"
+msgstr "Sider og Posts"
+
+#: ../inc/catchresponsive-default-options.php:168
+#: ../inc/catchresponsive-default-options.php:200
+#: ../inc/catchresponsive-default-options.php:333
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+#: ../inc/catchresponsive-default-options.php:182
+#: ../inc/catchresponsive-default-options.php:567
+msgid "Full Image"
+msgstr "Fuldt billede"
+
+#: ../inc/catchresponsive-default-options.php:183
+msgid "Large Image"
+msgstr "Stor Billede"
+
+#: ../inc/catchresponsive-default-options.php:184
+msgid "Slider Image"
+msgstr "Slider billede"
+
+#: ../inc/catchresponsive-default-options.php:214
+msgid "Demo Featured Content"
+msgstr "Demo Vist Indhold"
+
+#: ../inc/catchresponsive-default-options.php:215
+msgid "Featured Page Content"
+msgstr "Vist Side Indhold"
+
+#: ../inc/catchresponsive-default-options.php:229
+msgid "3 columns"
+msgstr "3 kolonner"
+
+#: ../inc/catchresponsive-default-options.php:230
+msgid "4 columns"
+msgstr "4 kolonner"
+
+#: ../inc/catchresponsive-default-options.php:245
+msgid "Show Full Content"
+msgstr "Vis fuldt indhold"
+
+#: ../inc/catchresponsive-default-options.php:246
+msgid "Hide Content"
+msgstr "Skjul Indhold"
+
+#: ../inc/catchresponsive-default-options.php:260
+msgid "Demo Featured Slider"
+msgstr "Demo Fremhævet Slider"
+
+#: ../inc/catchresponsive-default-options.php:261
+msgid "Featured Page Slider"
+msgstr "Fremhævet fast-side slider"
+
+#: ../inc/catchresponsive-default-options.php:275
+msgid "Fade"
+msgstr "Falme"
+
+#: ../inc/catchresponsive-default-options.php:276
+msgid "Fade Out"
+msgstr "Tone ud"
+
+#: ../inc/catchresponsive-default-options.php:277
+msgid "None"
+msgstr "Ingen"
+
+#: ../inc/catchresponsive-default-options.php:278
+msgid "Scroll Horizontal"
+msgstr "Scroll horisontal"
+
+#: ../inc/catchresponsive-default-options.php:279
+msgid "Scroll Vertical"
+msgstr "Scroll vertikalt"
+
+#: ../inc/catchresponsive-default-options.php:280
+msgid "Flip Horizontal"
+msgstr "Vend horisontalt"
+
+#: ../inc/catchresponsive-default-options.php:281
+msgid "Flip Vertical"
+msgstr "Vend Vertikalt"
+
+#: ../inc/catchresponsive-default-options.php:282
+msgid "Tile Slide"
+msgstr "Felt sliske"
+
+#: ../inc/catchresponsive-default-options.php:283
+msgid "Tile Blind"
+msgstr "Felt Skjul"
+
+#: ../inc/catchresponsive-default-options.php:284
+msgid "Shuffle"
+msgstr "Shuffle"
+
+#: ../inc/catchresponsive-default-options.php:298
+msgid "True"
+msgstr "Sandt"
+
+#: ../inc/catchresponsive-default-options.php:299
+msgid "Wait"
+msgstr "Vent"
+
+#: ../inc/catchresponsive-default-options.php:300
+msgid "False"
+msgstr "Falsk"
+
+#: ../inc/catchresponsive-default-options.php:314
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "Default (Gamle posts/Nye Posts)"
+
+#: ../inc/catchresponsive-default-options.php:315
+msgid "Numeric"
+msgstr "Numerisk"
+
+#: ../inc/catchresponsive-default-options.php:316
+msgid "Infinite Scroll (Click)"
+msgstr "Uendelig Scroll (Click)"
+
+#: ../inc/catchresponsive-default-options.php:317
+msgid "Infinite Scroll (Scroll)"
+msgstr "Uendelig Scroll (Scroll)"
+
+#: ../inc/catchresponsive-default-options.php:331
+msgid "Featured"
+msgstr "Fremhævet"
+
+#: ../inc/catchresponsive-default-options.php:332
+msgid "Full Size"
+msgstr "Fuld Størrelse"
+
+#: ../inc/catchresponsive-default-options.php:353
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:70
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/catchresponsive-default-options.php:357
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/catchresponsive-default-options.php:361
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: ../inc/catchresponsive-default-options.php:365
+#: ../inc/catchresponsive-social-icons.php:36
+msgid "Email"
+msgstr "Email"
+
+#: ../inc/catchresponsive-default-options.php:369
+msgid "Feed"
+msgstr "Feed"
+
+#: ../inc/catchresponsive-default-options.php:373
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../inc/catchresponsive-default-options.php:377
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/catchresponsive-default-options.php:381
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../inc/catchresponsive-default-options.php:385
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:82
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/catchresponsive-default-options.php:389
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/catchresponsive-default-options.php:393
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/catchresponsive-default-options.php:397
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/catchresponsive-default-options.php:401
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/catchresponsive-default-options.php:405
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/catchresponsive-default-options.php:409
+msgid "PollDaddy"
+msgstr "PollDaddy"
+
+#: ../inc/catchresponsive-default-options.php:413
+msgid "CodePen"
+msgstr "CodePen"
+
+#: ../inc/catchresponsive-default-options.php:417
+msgid "Path"
+msgstr "Path"
+
+#: ../inc/catchresponsive-default-options.php:421
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/catchresponsive-default-options.php:425
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/catchresponsive-default-options.php:429
+msgid "Digg"
+msgstr "Digg"
+
+#: ../inc/catchresponsive-default-options.php:433
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../inc/catchresponsive-default-options.php:437
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: ../inc/catchresponsive-default-options.php:441
+msgid "Pocket"
+msgstr "Pocket"
+
+#: ../inc/catchresponsive-default-options.php:445
+msgid "DropBox"
+msgstr "DropBox"
+
+#: ../inc/catchresponsive-default-options.php:449
+msgid "Spotify"
+msgstr "Spotify"
+
+#: ../inc/catchresponsive-default-options.php:453
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: ../inc/catchresponsive-default-options.php:457
+msgid "Twitch"
+msgstr "Twitch"
+
+#: ../inc/catchresponsive-default-options.php:461
+msgid "Website"
+msgstr "Website"
+
+#: ../inc/catchresponsive-default-options.php:465
+msgid "Phone"
+msgstr "Tlf."
+
+#: ../inc/catchresponsive-default-options.php:469
+msgid "Handset"
+msgstr "Handset"
+
+#: ../inc/catchresponsive-default-options.php:473
+msgid "Cart"
+msgstr "Kurv"
+
+#: ../inc/catchresponsive-default-options.php:477
+msgid "Cloud"
+msgstr "Cloud"
+
+#: ../inc/catchresponsive-default-options.php:481
+msgid "Link"
+msgstr "Link"
+
+#: ../inc/catchresponsive-default-options.php:499
+#: ../inc/catchresponsive-default-options.php:530
+#: ../inc/catchresponsive-default-options.php:557
+msgid "Default"
+msgstr "Standard"
+
+#: ../inc/catchresponsive-default-options.php:535
+msgid "Enable"
+msgstr "Aktiver"
+
+#: ../inc/catchresponsive-default-options.php:540
+msgid "Disable"
+msgstr "Deaktivér"
+
+#: ../inc/catchresponsive-default-options.php:562
+msgid "Featured Image"
+msgstr "Indlæggets thumbnail "
+
+#: ../inc/catchresponsive-default-options.php:572
+msgid "Disable Image"
+msgstr "Deaktiver billede"
+
+#: ../inc/catchresponsive-default-options.php:587
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. All Rights Reserved."
+
+#: ../inc/catchresponsive-default-options.php:587
+#, fuzzy
+#| msgctxt "yearly archives date format"
+#| msgid "Y"
+msgid "Y"
+msgstr "Y"
+
+#: ../inc/catchresponsive-default-options.php:589
+msgid "by"
+msgstr "af"
+
+#: ../inc/catchresponsive-featured-content.php:57
+msgid ""
+"Here you can showcase the x number of Featured Content. You can edit this "
+"Headline, Subheadline and Feaured Content from \"Appearance -> Customize -> "
+"Featured Content Options\"."
+msgstr ""
+"Her kan du vise x antal fremhævet indhold. Du kan redigere denne Overskrift, "
+"Underoverskrift og Fremhævet indhold fra \"Udseende -> Customize -> "
+"Fremhævet indhold indstillinger"
+
+#: ../inc/catchresponsive-featured-content.php:256
+#: ../inc/catchresponsive-featured-slider.php:178
+msgid "Permalink to: "
+msgstr "Permalink til:"
+
+#: ../inc/catchresponsive-menus.php:28 ../inc/catchresponsive-menus.php:70
+msgid "Skip to content"
+msgstr "Spring til indhold"
+
+#: ../inc/catchresponsive-menus.php:44
+msgid "Search"
+msgstr "Søg"
+
+#: ../inc/catchresponsive-menus.php:146 ../inc/catchresponsive-menus.php:165
+msgid "Menu"
+msgstr "Menu"
+
+#: ../inc/catchresponsive-metabox.php:93
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:180
+msgid "Layout Options"
+msgstr "Layout muligheder"
+
+#: ../inc/catchresponsive-metabox.php:94
+msgid "Header Featured Image Options"
+msgstr "Header featured billede indstillinger"
+
+#: ../inc/catchresponsive-metabox.php:95
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:218
+msgid "Single Page/Post Image Layout "
+msgstr "Single Side/Post Billed Layout"
+
+#: ../inc/catchresponsive-metabox.php:221
+msgid "Catch Responsive Options"
+msgstr "Catch Responsive Indstillinger"
+
+#: ../inc/catchresponsive-widgets.php:30
+msgid "Primary Sidebar"
+msgstr "Primær sidebar"
+
+#: ../inc/catchresponsive-widgets.php:36
+msgid ""
+"This is the primary sidebar if you are using a two or three column site "
+"layout option."
+msgstr ""
+"Dette er den primære sidebar hvis du bruger et to eller tre spaltet side "
+"layout."
+
+#: ../inc/catchresponsive-widgets.php:43
+#, php-format
+msgid "Footer Area %d"
+msgstr "Footer område %d"
+
+#: ../inc/catchresponsive-widgets.php:49
+#, php-format
+msgid "Footer %d widget area."
+msgstr "Footer %d widget område"
+
+#: ../inc/catchresponsive-widgets.php:69
+msgid "CT: Social Icons"
+msgstr "CT: Social Icons"
+
+#: ../inc/catchresponsive-widgets.php:70
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr "Brug denne widget til at tilføje sociale ikoner som widgets."
+
+#: ../inc/catchresponsive-widgets.php:111
+msgid "Title (optional):"
+msgstr "Titel (valgfri):"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:25
+#, fuzzy
+#| msgid "Select Categories"
+msgid "All Categories"
+msgstr "Vælg Kategorier"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:37
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+"Hold Ctrl (Windows) / Kommando (Mac) knappen for at vælge flere muligheder."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:50
+msgid "Theme Instructions"
+msgstr "Theme Instructions"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:54
+msgid "Support"
+msgstr "Support"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:58
+msgid "Changelog"
+msgstr "Ændringslog"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:62
+msgid "Donate Now"
+msgstr "Doner nu"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:66
+msgid "Review"
+msgstr "Gennemse"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:78
+msgid "Google+"
+msgstr "Google+"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:19
+msgid "Options for Featured Content"
+msgstr "Indstillinger for publiceret indhold"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:28
+msgid "Featured Content Options"
+msgstr "Fremhævet Indhold indstillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:46
+msgid "Enable Featured Content on"
+msgstr "Aktiver Side Indhold"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:62
+msgid "Select Featured Content Layout"
+msgstr "Vælg Side Indholds Layout"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:77
+msgid "Check to Move above Footer"
+msgstr "Tjek af for at flytte over sidefod"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:93
+msgid "Select Content Type"
+msgstr "Vælg indholds type"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:108
+msgid "Leave field empty if you want to remove Headline"
+msgstr "Lad feltet være tomt hvis du vil fjerne overskriften."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:109
+msgid "Headline for Featured Content"
+msgstr "Overskrift for Indhold"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:125
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "Lad feltet være tomt hvis du vil fjerne underoverskriften."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:126
+msgid "Sub-headline for Featured Content"
+msgstr "Underoverskrift for Indhold"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:142
+msgid ""
+"Save and refresh the page if No. of Featured Content is changed (Max no of "
+"Featured Content is 20)"
+msgstr ""
+"Gem og opdater siden hvis Antal Fremhævet Indhold er ændret (Max antal "
+"Fremhævet indhold er 20)"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:149
+msgid "No of Featured Content"
+msgstr "Antal Fremhævet Indhold"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:166
+msgid "Display Content"
+msgstr "Vis indhold"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:184
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:171
+msgid "Featured Page"
+msgstr "Fremhævet Side"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:19
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:27
+msgid "Featured Slider Options"
+msgstr "Fremhævet Slider Valgmuligheder"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:21
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:33
+msgid "Featured Slider"
+msgstr "Featured Slider"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:45
+msgid "Enable Slider on"
+msgstr "Aktiver Slider"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:61
+msgid "Transition Effect"
+msgstr "Overgangs effekt"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:77
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:96
+msgid "seconds(s)"
+msgstr "Sekund(er)"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:81
+msgid "Transition Delay"
+msgstr "Transition - forsinkelse"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:100
+msgid "Transition Length"
+msgstr "Transitions-længde"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:116
+msgid "Image Loader"
+msgstr "Billede Loader"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:132
+msgid "Select Slider Type"
+msgstr "Vælg slider type"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:147
+msgid ""
+"Save and refresh the page if No. of Slides is changed (Max no of slides is "
+"20)"
+msgstr ""
+"Gem og opdater siden hvis Antal Slides er ændret (Max antal slides er 20)"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:154
+msgid "No of Slides"
+msgstr "Antal Slides"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:25
+msgid "Enable Featured Header Image on "
+msgstr "Aktiver Fremhævet Sidehoved Billede "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:40
+msgid "Page/Post Featured Header Image Size"
+msgstr "Side/post fremhævet sidehoved billedstørrelse."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:53
+msgid "Featured Header Image Alt/Title Tag "
+msgstr "Fremhævet Header billede alt/title tag "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:66
+msgid "Featured Header Image Link URL"
+msgstr "Featured Header Billede Link URL"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:79
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:363
+msgid "Check to Open Link in New Window/Tab"
+msgstr "Marker for at åbne i nyt vindue/faneblad"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:19
+msgid "Note: Enter the url for correponding social networking website"
+msgstr "Note: Indsæt URL for den tilsvarende sociale netværks hjemmeside."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:21
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:28
+msgid "Social Links"
+msgstr "Sociale Links"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:45
+msgid ""
+"Skype link can be of formats:<br>callto://+{number}<br> skype:{username}?"
+"{action}. More Information in readme file"
+msgstr ""
+"Skype link kan være i formatet:<br>Ringtil://+{nummer}<br> skype:"
+"{brugernavn}?{action}. Mere Unformation i readme filen."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:20
+msgid "Basic theme Options"
+msgstr "Grundlæggende tema indstillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:23
+msgid "Theme Options"
+msgstr "Tema indstillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:29
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site with just a glance. You can enable/disable them on homepage and "
+"entire site."
+msgstr ""
+"Breadcrumbs er en god måde at lade dine besøgende finde ud af hvor de er på "
+"din side. Du kan aktivere/de-aktivere dem på forsiden og hele siden."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:31
+msgid "Breadcrumb Options"
+msgstr "Breadcrumb Indstillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:42
+msgid "Check to enable Breadcrumb"
+msgstr "Klik for at aktivere Breadcrumb"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:55
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "Klik for at aktivere Breadcrumb på Forsiden"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:71
+msgid "Separator between Breadcrumbs"
+msgstr "Separering mellem Breadcrumbs."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:86
+msgid "Custom/Inline CSS"
+msgstr "Brugerdefineret CSS"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:89
+msgid "Custom CSS Options"
+msgstr "Brugerdefineret CSS indstilling"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:99
+msgid "Enter Custom CSS"
+msgstr "Tilføj dine brugerdefinerede CSS styles"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:112
+msgid "Excerpt Options"
+msgstr "Uddrags Instillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:122
+msgid "Excerpt length. Default is 55 words"
+msgstr "Uddrag længde. Default er 55 ord"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:129
+msgid "Excerpt Length (words)"
+msgstr "Uddrag længde (ord)"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:143
+msgid "Read More Text"
+msgstr "Mere Tag Tekst"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:152
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr ""
+"Kun indlæg som hører til de valgte kategorier vil blive vist på forsiden"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:155
+msgid "Homepage / Frontpage Options"
+msgstr "Homepage / Forside indstillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:165
+msgid "Select Categories"
+msgstr "Vælg Kategorier"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:191
+msgid "Default Layout"
+msgstr "Standard Layout"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:205
+msgid "Archive Content Layout"
+msgstr "Arkiv Indhold Layout"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:229
+#, fuzzy, php-format
+#| msgid ""
+#| "Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi "
+#| "Plugin</a>.<br/>Infinite Scroll Options requires <a target=\"_blank\" "
+#| "href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgid ""
+"Numeric Option requires <a target=\"_blank\" href=\"%1$s\">WP-PageNavi "
+"Plugin</a>.<br/>Infinite Scroll Options requires <a target=\"_blank\" href="
+"\"%2$s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr ""
+"Numberisk Mulighed kræver <a target=\"_blank\" href=\"%s\">WP-SideNavi "
+"Plugin</a>.<br/>Uendelig Scroll Muligheder kræver <a target=\"_blank\" href="
+"\"%s\">JetPack Plugin</a> Med Uendelig Scroll modul Aktiveret."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:236
+#, php-format
+msgid ""
+"Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack "
+"Plugin</a> with Infinite Scroll module Enabled."
+msgstr ""
+"Uendelig Scroll Mulighed kræver <a target=\"_blank\" href=\"%s\">JetPack "
+"Plugin</a> med Uendelig Scroll modul aktiveret."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:247
+#, php-format
+msgid ""
+"Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi Plugin</"
+"a>."
+msgstr ""
+"Numerisk mulighed kræver <a target=\"_blank\" href=\"%s\">WP-SideNavi "
+"Plugin</a>."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:258
+msgid "Pagination Options"
+msgstr "Sideinddelings Instillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:269
+msgid "Pagination type"
+msgstr "Sideinddelings type"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:278
+msgid "To disable the fields, simply leave them empty."
+msgstr "For at deaktivere felterne, lad dem være tomme."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:281
+msgid "Promotion Headline Options"
+msgstr "Promotion Headline indstillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:292
+msgid "Enable Promotion Headline on"
+msgstr "Aktiver Promotion Headline for"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:306
+msgid "Appropriate Words: 10"
+msgstr "Passende ord: 10"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:307
+msgid "Promotion Headline Text"
+msgstr "Promotion Headline Tekst"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:320
+msgid "Appropriate Words: 15"
+msgstr "Passende ord: 15"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:321
+msgid "Promotion Subheadline Text"
+msgstr "Promotion Subheadline Tekst"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:334
+msgid "Appropriate Words: 3"
+msgstr "Passende ord: 3"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:335
+msgid "Promotion Headline Button Text "
+msgstr "Promotion Headline knap Tekst"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:349
+msgid "Promotion Headline Link"
+msgstr "Promotion Headline link"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:375
+msgid "Scrollup Options"
+msgstr "Scroll op indstillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:385
+msgid "Check to disable Scroll Up"
+msgstr "Afmærk for at deaktivere Scroll Up"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:394
+msgid "Change default placeholder text in Search."
+msgstr "Ændre standard pladsholder text i Søg."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:397
+msgid "Search Options"
+msgstr "Søgemuligheder"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:407
+msgid "Default Display Text in Search"
+msgstr "Standardtekst i søgefelt"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:53
+msgid "Logo"
+msgstr "Loho"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:66
+msgid "Check to disable logo"
+msgstr "Afmærk for at deaktivere logo"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:80
+msgid "Logo Alt Text"
+msgstr "Alternativ Logo Text"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:95
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "Afmærk for at flytte side titel og beskrivelse før logo"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:113
+msgid "Color Scheme"
+msgstr "Farvetema"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:128
+msgid "Mobile Menu Color Scheme"
+msgstr "Mobil menu farveskema"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:152
+msgid ""
+"Caution: Reset all settings to default. Refresh the page after save to view "
+"full effects."
+msgstr ""
+"Advarsel: Nulstil alle indstillinger til standard. Genindlæs siden efter "
+"arkivering for at se effekten."
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:154
+msgid "Reset all settings"
+msgstr "Nulstil alle indstillinger"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:165
+msgid "Check to reset all settings to default"
+msgstr "Afmærk for at nulstille alle indstillinger til standard"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:175
+#: ../inc/customizer-includes/catchresponsive-customizer.php:186
+msgid "Important Links"
+msgstr "Vigtige links"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:220
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr ""
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Catch Responsive Pro"
+msgstr "Catch Responsive Pro"
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: ../no-results.php:14
+msgid "Error 404-Page NOT Found"
+msgstr "Fejl 404 - Emne Blev Ikke Fundet"
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Søgeresultater for: %s"
+
+#: ../searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søg efter:"
+
+#: ../searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Søg"
+
+#: ../sidebar.php:40
+msgid "Primary Sidebar Widget Area"
+msgstr "Primære sidebar widget område"
+
+#: ../sidebar.php:43
+msgid ""
+"This is the Primary Sidebar Widget Area if you are using a two or three "
+"column site layout option."
+msgstr ""
+"Dette er det Primære Sidebar Widget Område hvis du bruger en to eller tre "
+"spaltet side layout udgave."
+
+#: ../sidebar.php:44
+#, php-format
+msgid ""
+"By default it will load Search and Archives widgets as shown below. You can "
+"add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> "
+"which will replace default widgets."
+msgstr ""
+"Per default vil det loade Søge og Arkiv widgets som vist nedenfor. Du kan "
+"tilføje widgets til dette område ved at besøge dit <a href=\"%s\">Widgets "
+"Panel</a> der kan erstatte default widgets."
+
+#: ../sidebar.php:57
+msgid "Archives"
+msgstr "Arkiver"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Remove Icon images to disable."
+#~ msgstr "Flyt Ikon billeder for at deaktivere"
+
+#~ msgid "Icon Options"
+#~ msgstr "ikon indstillinger"
+
+#~ msgid "Select/Add Favicon"
+#~ msgstr "Vælg/Tilføj Favicon"
+
+#~ msgid ""
+#~ "Web Clip Icon for Apple devices. Recommended Size - Width 144px and "
+#~ "Height 144px height, which will support High Resolution Devices like iPad "
+#~ "Retina."
+#~ msgstr ""
+#~ "Web Klip Ikon til Apple enheder. Anbefalet Størrelse - Bredde 144px og "
+#~ "Højde 144px, som vil understøtte Høj Opløsnings Enheder som iPad Retina"
+
+#~ msgid "Select/Add Web Clip Icon"
+#~ msgstr "Vælg/Tilføj Web Clip Ikon"
+
+#, fuzzy
+#~ msgid "Catch Responsive"
+#~ msgstr "Catch Responsive Indstillinger"
+
+#~ msgid "Upgrade To Pro &raquo;"
+#~ msgstr "Opgrader til Pro &raquo;"
+
+#~ msgid "Author: %s"
+#~ msgstr "Forfatter: %s"
+
+#~ msgid "Day: %s"
+#~ msgstr "Dag: %s"
+
+#~ msgid "Month: %s"
+#~ msgstr "Måned: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "F Y"
+
+#~ msgid "Year: %s"
+#~ msgstr "År: %s"
+
+#~ msgid "Asides"
+#~ msgstr "Sidebemærkninger"
+
+#~ msgid "Galleries"
+#~ msgstr "Gallerier"
+
+#~ msgid "Images"
+#~ msgstr "Billeder"
+
+#~ msgid "Videos"
+#~ msgstr "Videoer"
+
+#~ msgid "Quotes"
+#~ msgstr "Citater"
+
+#~ msgid "Links"
+#~ msgstr "Links"
+
+#~ msgid "Statuses"
+#~ msgstr "Statusser"
+
+#~ msgid "Audios"
+#~ msgstr "Lyd"
+
+#~ msgid "Chats"
+#~ msgstr "Chats"
+
+#~ msgctxt "Used before post author name."
+#~ msgid "<span class=\"screen-reader-text\">Author</span>"
+#~ msgstr "<span class=\"screen-reader-text\">Forfatter</span>"
+
+#~ msgid "Catch Base is a Premium Responsive WordPress Theme"
+#~ msgstr "Catch Base er et Premium Responsivt WordPress Tema"
+
+#~ msgid "Large"
+#~ msgstr "Stor"
+
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+#~ msgid "Full size"
+#~ msgstr "Fuld størrelse"
+
+#~ msgid "Slider Image Size"
+#~ msgstr "slider billed størrelse"
+
+#~ msgid "Permalink to:"
+#~ msgstr "Permalink til:"
+
+#~ msgid "Catchbase Options"
+#~ msgstr "Catch Base Indstillinger"
+
+#~ msgid "Excerpt length. Default is 40 words"
+#~ msgstr "Uddrag længde. Default er 40 ord."
+
+#~ msgid ""
+#~ "Some settings might be missing or disorganized in this version of "
+#~ "WordPress. So we suggest you to upgrade to version 4.0 or better."
+#~ msgstr ""
+#~ "Nogle indstillinger mangler muligvis  eller er uorganiseret i denne "
+#~ "version af WordPress. Vi foreslår at du opgradere til version 4.0 eller "
+#~ "senere."
+
+#~ msgctxt "Used before publish date."
+#~ msgid "<span class=\"screen-reader-text\">Posted on</span>"
+#~ msgstr "<span class=\"screen-reader-text\">Udgivet den</span>"
+
+#~ msgid "StumbleUpon"
+#~ msgstr "StumbleUpon"

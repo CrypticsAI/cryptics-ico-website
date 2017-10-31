@@ -1,0 +1,127 @@
+# Translation of Plugins - GetSale Popup Tool - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - GetSale Popup Tool - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-07 13:59:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - GetSale Popup Tool - Stable (latest release)\n"
+
+#: getsale.php:171
+msgid "You don't have Curl support in your PHP!"
+msgstr "У вас не установлена поддержка Curl в PHP!"
+
+#: getsale_options.php:212
+msgid "Plugin GetSale has been installed incorrectly."
+msgstr "Плагин GetSale был установлен неправильно."
+
+#: getsale.php:103 getsale.php:113
+msgid "Settings"
+msgstr "Настройки"
+
+#: getsale.php:159
+msgid "Authorization"
+msgstr "Авторизация"
+
+#: getsale.php:160
+msgid "Please, enter your Email and API Key from your GetSale account"
+msgstr "Введите Email и Ключ API из личного кабинета GetSale"
+
+#: getsale.php:161
+msgid "If you don’t have GetSale account, you can register it <a href='https://getsale.io'>here</a>"
+msgstr "Если вы еще не регистрировались в сервисе GetSale это можно сделать по ссылке <a href='https://getsale.io'>GetSale</a>"
+
+#: getsale.php:162
+msgid "Contact Us: <a href='mailto:support@getsale.io'>support@getsale.io</a>"
+msgstr "Служба поддержки: <a href='mailto:support@getsale.io'>support@getsale.io</a>"
+
+#: getsale.php:164
+msgid "Congratulations! Your website is successfully linked to your <a href='https://getsale.io'>GetSale account</a>"
+msgstr "Поздравляем! Ваш сайт успешно привязан к аккаунту <a href='https://getsale.io'>GetSale</a>"
+
+#: getsale.php:165
+msgid "You can start creating widgets for your website using your <a href='https://getsale.io'>GetSale account</a>!"
+msgstr "Теперь вы можете создать виджеты в личном кабинете на <a href='https://getsale.io'>GetSale</a>!"
+
+#: getsale.php:166
+msgid "API Key is correct"
+msgstr "Введен правильный API ключ!"
+
+#: getsale.php:167
+msgid "Email is correct"
+msgstr "Введен правильный Email!"
+
+#: getsale.php:168
+msgid "Attention! API Key is invalid. Please, check and enter API Key once again"
+msgstr "Ошибка! Неверно введен Ключ API"
+
+#: getsale.php:169
+msgid "Attention! This Email isn’t registered on <a href='https://getsale.io'>GetSale</a>"
+msgstr "Ошибка! Данный Email не зарегистрирован на сайте <a href='https://getsale.io'>GetSale</a>"
+
+#: getsale.php:170
+msgid "Attention! This website is already in use on <a href='https://getsale.io'>GetSale</a>"
+msgstr "Ошибка! Данный сайт уже используется на <a href='https://getsale.io'>GetSale</a>"
+
+#: getsale.php:172
+msgid "powerful cutting edge tool to create widgets and popups for your website!"
+msgstr "профессиональный инструмент для создания popup-окон!"
+
+#: getsale.php:173 getsale_options.php:123
+msgid "GetSale is a powerful tool for creating all types of widgets for your website. You can increase your sales dramatically creating special offer, callback widgets, coupons blasts and many more. Create, Show and Sell - this is our goal!"
+msgstr "GetSale поможет вашему сайту нарастить контактную базу лояльных клиентов, информировать посетителей о предстоящих акциях, распродажах, раздавать промокоды, скидки и многое другое, что напрямую повлияет на конверсии покупателей и рост продаж."
+
+#: getsale.php:174 getsale_options.php:35 getsale_options.php:122
+msgid "GetSale Popup Tool"
+msgstr "GetSale Popup Tool"
+
+#: getsale_options.php:54
+msgid "Email"
+msgstr "Email"
+
+#: getsale_options.php:58
+msgid "API Key"
+msgstr "API Key"
+
+#: getsale_options.php:103
+msgid "Enter Email"
+msgstr "Введите Email"
+
+#: getsale_options.php:107
+msgid "Enter API Key"
+msgstr "Введите ключ API"
+
+#: getsale_options.php:120
+msgid "GetSale Popup Tool has been successfully installed"
+msgstr "Плагин GetSale Popup Tool успешно установлен!"
+
+#: getsale_options.php:120
+msgid "To get started, you must enter Email and API Key, from from your <a href='https://getsale.io'>GetSale account</a>"
+msgstr "Для начала работы плагина необходимо ввести Ключ API, полученный в личном кабинете на сайте <a href='https://getsale.io'>GetSale.io</a>"
+
+#: getsale_options.php:122
+msgid "professional tool for creating popup windows"
+msgstr "профессиональный инструмент для создания popup-окон."
+
+#. Plugin Name of the plugin/theme
+msgid "GetSale"
+msgstr "GetSale"
+
+#. #-#-#-#-#  getsale-popup-tool-code.pot (GetSale 1.0.5)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  getsale-popup-tool-code.pot (GetSale 1.0.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://getsale.io"
+msgstr "https://getsale.io"
+
+#. Description of the plugin/theme
+msgid "GetSale &mdash; professional tool for creating popup windows."
+msgstr "GetSale &mdash; профессиональный инструмент для создания popup-окон!"
+
+#. Author of the plugin/theme
+msgid "GetSale Team"
+msgstr "GetSale Team"

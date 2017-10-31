@@ -1,0 +1,111 @@
+# Copyright (C) 2016 GetSale Popup Tool
+# This file is distributed under the same license as the GetSale Popup Tool package.
+msgid ""
+msgstr ""
+"Project-Id-Version: GetSale Popup Tool 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/getsale-popup-tool\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-09-26 12:00+00:00\n"
+"PO-Revision-Date: 2016-09-27 16:03+0300\n"
+"Last-Translator: GetSale Team <support@getsale.io>\n"
+"Language-Team: GetSale Team <support@getsale.io>\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.8.9(4374)\n"
+
+#: ../getsale.php:40
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../getsale_options.php:39
+msgid "Save Settings"
+msgstr "Salvar Configurações"
+
+#: ../getsale_options.php:52
+msgid "Email"
+msgstr "Email"
+
+#: ../getsale_options.php:54
+msgid "API Key"
+msgstr "Chave de API"
+
+#: ../getsale_options.php:79
+msgid "Enter Email"
+msgstr "Digite Email"
+
+#: ../getsale_options.php:83
+msgid "Enter API Key"
+msgstr "Digite chave de API"
+
+#: ../getsale_options.php:96
+msgid "GetSale Popup Tool has been successfully installed"
+msgstr "GetSale Popup Tool foi instalado com sucesso"
+
+#: ../getsale_options.php:97
+msgid "To get started, you must enter Email and API key, from from your <a href='https://getsale.io'>GetSale account</a>"
+msgstr "Para começar, você deve digitar Email e API chave, a partir da sua conta <a href='https://getsale.io'>GetSale.io</a>"
+
+#: ../getsale_options.php:99
+msgid "GetSale Popup Tool"
+msgstr "GetSale Popup Tool"
+
+#: ../getsale_options.php:100
+msgid "professional tool for creating popup windows"
+msgstr "ferramenta potente de ponta para criação de widgets e popups para seu website!"
+
+#: ../getsale_options.php:101
+msgid "GetSale &mdash; powerful cutting edge tool to create widgets and popups for your website!"
+msgstr "GetSale &mdash; ferramenta potente de ponta para criação de widgets e popups para seu website!"
+
+#: ../getsale.php:127
+msgid "Authorization"
+msgstr "Autorização"
+
+#: ../getsale.php:128
+msgid "Please, enter your Email and API Key from your GetSale account"
+msgstr "Por favor, insira seu Email e a chave de API da sua conta GetSale"
+
+#: ../getsale.php:129
+msgid "If you don’t have GetSale account, you can register it <a href='https://getsale.io'>here</a>"
+msgstr "Se você não tem conta GetSale, você pode fazer cadstro aqui: <a href='https://getsale.io'>GetSale</a>"
+
+#: ../getsale.php:130
+msgid "Contact Us: <a href='mailto:support@getsale.io'>support@getsale.io</a>"
+msgstr "Fale conosoco: <a href='mailto:support@getsale.io'>support@getsale.io</a>"
+
+#: ../getsale.php:132
+msgid "Congratulations! Your website is successfully linked to your <a href='https://getsale.io'>GetSale account</a>"
+msgstr "Parabéns! Seu website está ligo com sucesso à sua conta GetSale <a href='https://getsale.io'>GetSale</a>"
+
+#: ../getsale.php:133
+msgid "You can start creating widgets for your website using your <a href='https://getsale.io'>GetSale account</a>!"
+msgstr "Você pode começar a criar widgets para seu website usando sua conta GetSale: <a href='https://getsale.io'>GetSale</a>!"
+
+#: ../getsale.php:134
+msgid "API Key is correct"
+msgstr "Chave de API está correto!"
+
+#: ../getsale.php:135
+msgid "Email is correct"
+msgstr "Email está correto!"
+
+#: ../getsale.php:136
+msgid "Attention! API Key is invalid. Please, check and enter API Key once again"
+msgstr "Atenção! A chave de API é invalida. Por favor, cheque e insira a chave de API de novo"
+
+#: ../getsale.php:137
+msgid "Attention! This Email isn’t registered on <a href='https://getsale.io'>GetSale</a>"
+msgstr "Atenção! Este Email não é cadastrado no <a href='https://getsale.io'>GetSale</a>"
+
+#: ../getsale.php:138
+msgid "Attention! This website is already in use on <a href='https://getsale.io'>GetSale</a>"
+msgstr "Atenção! Este website já está em uso no <a href='https://getsale.io'>GetSale</a>"
+
+#: ../getsale.php:139
+msgid "You don't have Curl support in your PHP!"
+msgstr "Por favor, instale ou ligue a extensão cURL para sua hospedagem!"
+
+#: ../getsale.php:141
+msgid "GetSale is a powerful tool for creating all types of widgets for your website. You can increase your sales dramatically creating special offer, callback widgets, coupons blasts and many more. Create, Show and Sell - this is our goal!"
+msgstr "GetSale é uma ferramenta potente para criação de todos os tipos de widgets para seu site. Você pode aumentar suas vendas significativamente criando ofertas especiais, widgets de retorno de ligação, coupons blasts e muito mais. Criar, Exibir e Vender - este é o nosso objetivo!"

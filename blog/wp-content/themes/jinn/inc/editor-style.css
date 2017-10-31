@@ -1,0 +1,135 @@
+/*
+ * Theme Name: Jinn
+ * Description: Used to style the content editor in posts and pages
+ */
+
+/* =Body
+----------------------------------------------------------------------------- */
+html .mceContentBody {
+    max-width: 635px;
+}
+
+body {
+    color: #404040;
+    font-family: Khula, "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+/* =Base elements
+----------------------------------------------------------------------------- */
+img {
+    max-width: 100%;
+    height: auto;
+}
+a {
+    color: #00ACDF;
+}
+a:visited {
+    color: #0098c6;
+}
+p {
+    margin: 2.0225rem 0;
+}
+blockquote {
+  padding: 1.01125rem 2.0225rem;
+  margin: 2.0225rem 1.01125rem;
+  font-size: 1.2rem;
+  font-weight: 300;
+  background-color: inherit;
+  border-left: 0.3rem solid gainsboro;
+  color: #9e9e9e;
+}
+blockquote cite {
+  font-weight: 300;
+  font-size: 0.9rem;
+  text-align: right;
+  margin-left: 25%;
+  margin-top: 2.0225rem;
+}
+blockquote.alignright {
+  width: 50%;
+  float: right;
+  padding: 1em 2em 0 0;
+  margin-left: 2em;
+  border-left: none;
+  border-right: 0.3rem solid gainsboro;
+  margin-right: 0;
+}
+blockquote.alignright cite {
+  margin-left: 0;
+  margin-right: 25%;
+  text-align: left;
+}
+blockquote.alignleft {
+  width: 50%;
+  float: left;
+  padding: 1em 0 0 2em;
+  margin-right: 2em;
+  margin-left: 0;
+}
+
+ul, ol {
+  padding: 0;
+  margin: 0 0 1.618em 1.618em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  clear: both;
+  font-family: Khula, "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+  line-height: 1.313em;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0.563em 0;
+}
+
+h2 {
+  font-size: 2.25em;
+  margin: 0.625em 0;
+}
+
+h3 {
+  font-size: 1.5em;
+  margin: 1.313em 0;
+}
+
+h4 {
+  font-size: 1.313em;
+  margin: 1.313em 0;
+}
+
+h5 {
+  font-size: 1.125em;
+  margin: 1.313em 0;
+}
+
+h6 {
+  font-size: 1em;
+  margin: 0.75em 0;
+}
+
+img, figure {
+  margin: 1.5rem;
+}
+img.alignnone, figure.alignnone {
+  margin: 1.5rem 0;
+}
+img.alignright, figure.alignright {
+  margin: 1.5rem 0 1.5rem 1.5rem;
+}
+img.alignleft, figure.alignleft {
+  margin: 1.5rem 1.5rem 1.5rem 0;
+}
+.wp-caption-text, .gallery-caption {
+  font-size: 0.9rem;
+  font-weight: 300;
+  margin-top: -1.5rem;
+  padding: 0.5rem;
+  line-height: 1.618rem;
+  margin-bottom: 2rem;
+  color: #9e9e9e;
+  background: whitesmoke;
+}

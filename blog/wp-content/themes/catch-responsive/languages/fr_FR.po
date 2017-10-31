@@ -1,0 +1,1326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Responsive\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2017-08-27 23:19+0545\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;"
+"_nx:1,2,4c;esc_html__;esc_attr_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops cette page n'a pas été trouvé. "
+
+#: ../404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il ressemble à rien n'a été trouvé à cet endroit. Peut-être essayer un des "
+"liens ci-dessous ou une recherche?"
+
+#: ../comments.php:30
+#, fuzzy, php-format
+#| msgctxt "comments title"
+#| msgid "One thought on &ldquo;%2$s&rdquo;"
+#| msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un commentaire à propos de &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:35
+#, fuzzy, php-format
+#| msgctxt "comments title"
+#| msgid "One thought on &ldquo;%2$s&rdquo;"
+#| msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commentaire à propos de &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires à propos de &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:50 ../comments.php:75
+msgid "Comment navigation"
+msgstr "Commentaire navigation "
+
+#: ../comments.php:51 ../comments.php:76
+msgid "&larr; Older Comments"
+msgstr "& Larr; Commentaires plus anciens"
+
+#: ../comments.php:52 ../comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "commentaire récent &rarr;"
+
+#: ../comments.php:87
+msgid "Comments are closed."
+msgstr "Commentaire fermé"
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr "Rien n'a été trouvé "
+
+#: ../content-none.php:21 ../no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article?<a href=\"%1$s\">Commencer ici</a>. "
+
+#: ../content-none.php:25 ../no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais votre recherche n'a pas été touver. Merci d’essayer avec d' "
+"autre mots de recherche "
+
+#: ../content-none.php:30 ../no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il me semble que vous ne trouvez pas ce que vous cherchez. Peut être que "
+"nous pouvons vous aider."
+
+#: ../content-page.php:28 ../content-single.php:31 ../content.php:46
+msgid "Pages:"
+msgstr "Pages"
+
+#: ../content-page.php:35 ../inc/catchresponsive-core.php:604
+#: ../inc/catchresponsive-core.php:623 ../inc/catchresponsive-core.php:749
+msgid "Edit"
+msgstr "Editer"
+
+#: ../inc/catchresponsive-breadcrumb.php:57
+msgid "Home"
+msgstr "Accueil"
+
+#: ../inc/catchresponsive-breadcrumb.php:58
+#, php-format
+msgid "%1$s Archive for %2$s"
+msgstr "%1$s Archives pour %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:59
+#, php-format
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$sRésultat pour votre recherche: %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:60
+#, php-format
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$sArticles étiquetés %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:61
+#, php-format
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$sVoir tous les articles par %2$s"
+
+#: ../inc/catchresponsive-breadcrumb.php:62
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: ../inc/catchresponsive-breadcrumb.php:222
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: ../inc/catchresponsive-core.php:88 ../inc/catchresponsive-menus.php:27
+msgid "Primary Menu"
+msgstr "Premier menu"
+
+#: ../inc/catchresponsive-core.php:89 ../inc/catchresponsive-menus.php:69
+msgid "Secondary Menu"
+msgstr "Deuxième menu"
+
+#: ../inc/catchresponsive-core.php:183
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ouvert"
+
+#: ../inc/catchresponsive-core.php:189
+msgctxt "Droid Sans font: on or off"
+msgid "on"
+msgstr "ouvert"
+
+#: ../inc/catchresponsive-core.php:572
+msgid "Post navigation"
+msgstr "Navigation article"
+
+#: ../inc/catchresponsive-core.php:581
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anciens articles"
+
+#: ../inc/catchresponsive-core.php:582
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Récents articles <span class=\"meta-nav\">&rarr;</span> "
+
+#: ../inc/catchresponsive-core.php:604
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: ../inc/catchresponsive-core.php:614
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"citations dites\">citations dites:</span>"
+
+#: ../inc/catchresponsive-core.php:620
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s "
+
+#: ../inc/catchresponsive-core.php:627
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération. "
+
+#: ../inc/catchresponsive-core.php:730
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">Posté le</span>"
+
+#: ../inc/catchresponsive-core.php:737
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">Auteur</span>"
+
+#: ../inc/catchresponsive-core.php:745
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: ../inc/catchresponsive-core.php:745
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: ../inc/catchresponsive-core.php:745
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: ../inc/catchresponsive-core.php:766 ../inc/catchresponsive-core.php:774
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", ␣"
+
+#: ../inc/catchresponsive-core.php:769
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class = \"lecteur d'écran-text\"> Catégories </ span>"
+
+#: ../inc/catchresponsive-core.php:777
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class = \"lecteur d'écran-text\"> Balises </ span>"
+
+#: ../inc/catchresponsive-core.php:1386
+msgid "Scroll Up"
+msgstr "Faire remonter"
+
+#: ../inc/catchresponsive-core.php:1404
+msgid "Posted on"
+msgstr "Posté le"
+
+#: ../inc/catchresponsive-core.php:1405
+msgid "By"
+msgstr "par"
+
+#: ../inc/catchresponsive-core.php:1447
+msgid "Next &rarr;"
+msgstr "Suivant &rarr;"
+
+#: ../inc/catchresponsive-core.php:1448
+msgid "Next post:"
+msgstr "Article suivant&nbsp;:"
+
+#: ../inc/catchresponsive-core.php:1450
+msgid "&larr; Previous"
+msgstr "&larr; Précédent"
+
+#: ../inc/catchresponsive-core.php:1451
+msgid "Previous post:"
+msgstr "Article précédent&nbsp;:"
+
+#: ../inc/catchresponsive-default-options.php:57
+msgid "Read More ..."
+msgstr "Lire plus ..."
+
+#: ../inc/catchresponsive-default-options.php:68
+msgid "Catch Responsive is a Premium Responsive WordPress Theme"
+msgstr "Catch Responsive Premier Responsive WordPress Thème"
+
+#: ../inc/catchresponsive-default-options.php:69
+msgid ""
+"This is promotion headline. You can edit this from Appearance -> Customize -"
+"> Theme Options -> Promotion Headline Options"
+msgstr ""
+"C'est le titre de promotion. Vous pouvez l'éditer à partir Apparence -> "
+"Personnaliser -> Options de thème -> Promotion options titre"
+
+#: ../inc/catchresponsive-default-options.php:70
+msgid "Reviews"
+msgstr "Avis"
+
+#: ../inc/catchresponsive-default-options.php:75
+msgid "Search..."
+msgstr "Recherche"
+
+#: ../inc/catchresponsive-default-options.php:87
+#: ../inc/catchresponsive-featured-content.php:56
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:21
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:34
+msgid "Featured Content"
+msgstr "Contenu en vedette"
+
+#: ../inc/catchresponsive-default-options.php:88
+msgid "Here you can showcase the x number of Featured Content."
+msgstr "Ici vous can mettre en valeur le contenu de x nombre vedette"
+
+#: ../inc/catchresponsive-default-options.php:117
+msgid "Light"
+msgstr "Lumière"
+
+#: ../inc/catchresponsive-default-options.php:118
+msgid "Dark"
+msgstr "Sombre"
+
+#: ../inc/catchresponsive-default-options.php:132
+#: ../inc/catchresponsive-default-options.php:504
+msgid "Primary Sidebar, Content"
+msgstr "Première barre latéral, contenu"
+
+#: ../inc/catchresponsive-default-options.php:133
+#: ../inc/catchresponsive-default-options.php:509
+msgid "Content, Primary Sidebar"
+msgstr "Contenu, première barre latérale"
+
+#: ../inc/catchresponsive-default-options.php:134
+#: ../inc/catchresponsive-default-options.php:514
+msgid "No Sidebar ( Content Width )"
+msgstr "Aucune barre latérale (Largeur contenu)"
+
+#: ../inc/catchresponsive-default-options.php:147
+#: ../inc/catchresponsive-default-options.php:244
+msgid "Show Excerpt"
+msgstr "Montrer le résumé"
+
+#: ../inc/catchresponsive-default-options.php:148
+msgid "Show Full Content (No Featured Image)"
+msgstr "Afficher le contenu complet (pas de description photo)"
+
+#: ../inc/catchresponsive-default-options.php:162
+#: ../inc/catchresponsive-default-options.php:198
+msgid "Homepage / Frontpage"
+msgstr " Page d'accueil / Première page"
+
+#: ../inc/catchresponsive-default-options.php:163
+msgid "Excluding Homepage"
+msgstr "Hors la page d'accueil"
+
+#: ../inc/catchresponsive-default-options.php:164
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "\tHors accueil, la page / Affiche le descriptive des photos"
+
+#: ../inc/catchresponsive-default-options.php:165
+#: ../inc/catchresponsive-default-options.php:199
+msgid "Entire Site"
+msgstr "Tout le site"
+
+#: ../inc/catchresponsive-default-options.php:166
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Tout le site, la page / Affiche le descriptif des photos"
+
+#: ../inc/catchresponsive-default-options.php:167
+msgid "Pages and Posts"
+msgstr "Pages et messages"
+
+#: ../inc/catchresponsive-default-options.php:168
+#: ../inc/catchresponsive-default-options.php:200
+#: ../inc/catchresponsive-default-options.php:333
+msgid "Disabled"
+msgstr "Handicapé"
+
+#: ../inc/catchresponsive-default-options.php:182
+#: ../inc/catchresponsive-default-options.php:567
+msgid "Full Image"
+msgstr "Pleine image"
+
+#: ../inc/catchresponsive-default-options.php:183
+msgid "Large Image"
+msgstr "Grande image"
+
+#: ../inc/catchresponsive-default-options.php:184
+msgid "Slider Image"
+msgstr "Curseur de l'image"
+
+#: ../inc/catchresponsive-default-options.php:214
+msgid "Demo Featured Content"
+msgstr "Contenu vedette démo"
+
+#: ../inc/catchresponsive-default-options.php:215
+msgid "Featured Page Content"
+msgstr "Contenu vedette de la page"
+
+#: ../inc/catchresponsive-default-options.php:229
+msgid "3 columns"
+msgstr "3 colonnes"
+
+#: ../inc/catchresponsive-default-options.php:230
+msgid "4 columns"
+msgstr "4 colonnes "
+
+#: ../inc/catchresponsive-default-options.php:245
+msgid "Show Full Content"
+msgstr "Affichage complet de l'article"
+
+#: ../inc/catchresponsive-default-options.php:246
+msgid "Hide Content"
+msgstr "Cacher le contenu"
+
+#: ../inc/catchresponsive-default-options.php:260
+msgid "Demo Featured Slider"
+msgstr "Démo curseur vedette "
+
+#: ../inc/catchresponsive-default-options.php:261
+msgid "Featured Page Slider"
+msgstr "Curseur page vadette"
+
+#: ../inc/catchresponsive-default-options.php:275
+msgid "Fade"
+msgstr "Fondu"
+
+#: ../inc/catchresponsive-default-options.php:276
+msgid "Fade Out"
+msgstr "Disparaître "
+
+#: ../inc/catchresponsive-default-options.php:277
+msgid "None"
+msgstr "Aucun "
+
+#: ../inc/catchresponsive-default-options.php:278
+msgid "Scroll Horizontal"
+msgstr "Défilement horizontal "
+
+#: ../inc/catchresponsive-default-options.php:279
+msgid "Scroll Vertical"
+msgstr "Défilement Vertical "
+
+#: ../inc/catchresponsive-default-options.php:280
+msgid "Flip Horizontal"
+msgstr "Retourner horizontalement "
+
+#: ../inc/catchresponsive-default-options.php:281
+msgid "Flip Vertical"
+msgstr "Symétrie axe vertical "
+
+#: ../inc/catchresponsive-default-options.php:282
+msgid "Tile Slide"
+msgstr "Titre diapositive"
+
+#: ../inc/catchresponsive-default-options.php:283
+msgid "Tile Blind"
+msgstr "Titre aveugle"
+
+#: ../inc/catchresponsive-default-options.php:284
+msgid "Shuffle"
+msgstr "Shuffle "
+
+#: ../inc/catchresponsive-default-options.php:298
+msgid "True"
+msgstr "True"
+
+#: ../inc/catchresponsive-default-options.php:299
+msgid "Wait"
+msgstr "Attendez"
+
+#: ../inc/catchresponsive-default-options.php:300
+msgid "False"
+msgstr "False"
+
+#: ../inc/catchresponsive-default-options.php:314
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "Par défaut (messages âgées / plus récents messages) "
+
+#: ../inc/catchresponsive-default-options.php:315
+msgid "Numeric"
+msgstr "Numérique"
+
+#: ../inc/catchresponsive-default-options.php:316
+msgid "Infinite Scroll (Click)"
+msgstr "Infini Scroll (Cliquez) "
+
+#: ../inc/catchresponsive-default-options.php:317
+msgid "Infinite Scroll (Scroll)"
+msgstr "Infini Scroll (défilement) "
+
+#: ../inc/catchresponsive-default-options.php:331
+msgid "Featured"
+msgstr "Sélectioné"
+
+#: ../inc/catchresponsive-default-options.php:332
+msgid "Full Size"
+msgstr "Pleine taille"
+
+#: ../inc/catchresponsive-default-options.php:353
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:70
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/catchresponsive-default-options.php:357
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/catchresponsive-default-options.php:361
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: ../inc/catchresponsive-default-options.php:365
+#: ../inc/catchresponsive-social-icons.php:36
+msgid "Email"
+msgstr "Email"
+
+#: ../inc/catchresponsive-default-options.php:369
+msgid "Feed"
+msgstr "Feed"
+
+#: ../inc/catchresponsive-default-options.php:373
+msgid "WordPress"
+msgstr "Wordpress"
+
+#: ../inc/catchresponsive-default-options.php:377
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/catchresponsive-default-options.php:381
+msgid "LinkedIn"
+msgstr "Linkedln"
+
+#: ../inc/catchresponsive-default-options.php:385
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:82
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/catchresponsive-default-options.php:389
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/catchresponsive-default-options.php:393
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/catchresponsive-default-options.php:397
+msgid "YouTube"
+msgstr "Youtube"
+
+#: ../inc/catchresponsive-default-options.php:401
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/catchresponsive-default-options.php:405
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/catchresponsive-default-options.php:409
+msgid "PollDaddy"
+msgstr "PollDaddy "
+
+#: ../inc/catchresponsive-default-options.php:413
+msgid "CodePen"
+msgstr "CodePen "
+
+#: ../inc/catchresponsive-default-options.php:417
+msgid "Path"
+msgstr "Path "
+
+#: ../inc/catchresponsive-default-options.php:421
+msgid "Dribbble"
+msgstr "Dribbble "
+
+#: ../inc/catchresponsive-default-options.php:425
+msgid "Skype"
+msgstr "Skype "
+
+#: ../inc/catchresponsive-default-options.php:429
+msgid "Digg"
+msgstr "Digg "
+
+#: ../inc/catchresponsive-default-options.php:433
+msgid "Reddit"
+msgstr "Reddit "
+
+#: ../inc/catchresponsive-default-options.php:437
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: ../inc/catchresponsive-default-options.php:441
+msgid "Pocket"
+msgstr "Pocket "
+
+#: ../inc/catchresponsive-default-options.php:445
+msgid "DropBox"
+msgstr "DropBox "
+
+#: ../inc/catchresponsive-default-options.php:449
+msgid "Spotify"
+msgstr "Spotify "
+
+#: ../inc/catchresponsive-default-options.php:453
+msgid "Foursquare"
+msgstr "Foursquare "
+
+#: ../inc/catchresponsive-default-options.php:457
+msgid "Twitch"
+msgstr "Twitch "
+
+#: ../inc/catchresponsive-default-options.php:461
+msgid "Website"
+msgstr "Website"
+
+#: ../inc/catchresponsive-default-options.php:465
+msgid "Phone"
+msgstr "Phone"
+
+#: ../inc/catchresponsive-default-options.php:469
+msgid "Handset"
+msgstr "Handset"
+
+#: ../inc/catchresponsive-default-options.php:473
+msgid "Cart"
+msgstr "Cart"
+
+#: ../inc/catchresponsive-default-options.php:477
+msgid "Cloud"
+msgstr "Cloud"
+
+#: ../inc/catchresponsive-default-options.php:481
+msgid "Link"
+msgstr "Link"
+
+#: ../inc/catchresponsive-default-options.php:499
+#: ../inc/catchresponsive-default-options.php:530
+#: ../inc/catchresponsive-default-options.php:557
+msgid "Default"
+msgstr "Par défaut"
+
+#: ../inc/catchresponsive-default-options.php:535
+msgid "Enable"
+msgstr "Permettre"
+
+#: ../inc/catchresponsive-default-options.php:540
+msgid "Disable"
+msgstr "Désactiver"
+
+#: ../inc/catchresponsive-default-options.php:562
+msgid "Featured Image"
+msgstr "Image séléctionnée"
+
+#: ../inc/catchresponsive-default-options.php:572
+msgid "Disable Image"
+msgstr "Désactiver image"
+
+#: ../inc/catchresponsive-default-options.php:587
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Tous Les Droits Sont Réservés."
+
+#: ../inc/catchresponsive-default-options.php:587
+#, fuzzy
+#| msgctxt "yearly archives date format"
+#| msgid "Y"
+msgid "Y"
+msgstr "A"
+
+#: ../inc/catchresponsive-default-options.php:589
+msgid "by"
+msgstr "par"
+
+#: ../inc/catchresponsive-featured-content.php:57
+msgid ""
+"Here you can showcase the x number of Featured Content. You can edit this "
+"Headline, Subheadline and Feaured Content from \"Appearance -> Customize -> "
+"Featured Content Options\"."
+msgstr ""
+"Ici vous pouvez mettre en valeur le nombre x de contenu vedette. Vous pouvez "
+"modifier ce titre, sous titre et contenu vedette de «Apparence -> "
+"Personnaliser -> Options de contenu vedette\"."
+
+#: ../inc/catchresponsive-featured-content.php:256
+#: ../inc/catchresponsive-featured-slider.php:178
+msgid "Permalink to: "
+msgstr "Permalien à: "
+
+#: ../inc/catchresponsive-menus.php:28 ../inc/catchresponsive-menus.php:70
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: ../inc/catchresponsive-menus.php:146 ../inc/catchresponsive-menus.php:165
+msgid "Menu"
+msgstr "Menu"
+
+#: ../inc/catchresponsive-metabox.php:93
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:180
+msgid "Layout Options"
+msgstr "Options de présentation "
+
+#: ../inc/catchresponsive-metabox.php:94
+msgid "Header Featured Image Options"
+msgstr "Option d'image de tête"
+
+#: ../inc/catchresponsive-metabox.php:95
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:218
+msgid "Single Page/Post Image Layout "
+msgstr "Une seule page / Disposition message d'image"
+
+#: ../inc/catchresponsive-metabox.php:221
+msgid "Catch Responsive Options"
+msgstr "Options de Catch Responsive"
+
+#: ../inc/catchresponsive-widgets.php:30
+msgid "Primary Sidebar"
+msgstr "Première sidebar"
+
+#: ../inc/catchresponsive-widgets.php:36
+msgid ""
+"This is the primary sidebar if you are using a two or three column site "
+"layout option."
+msgstr ""
+"Ce est la barre latérale primaire si vous utilisez une option deux ou trois "
+"colonnes aménagement du site. "
+
+#: ../inc/catchresponsive-widgets.php:43
+#, php-format
+msgid "Footer Area %d"
+msgstr "Pied de page Zone% d "
+
+#: ../inc/catchresponsive-widgets.php:49
+#, php-format
+msgid "Footer %d widget area."
+msgstr "Pied de page% d zone de widget. "
+
+#: ../inc/catchresponsive-widgets.php:69
+msgid "CT: Social Icons"
+msgstr "CT: Icônes Social"
+
+#: ../inc/catchresponsive-widgets.php:70
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr "Utilisez ce widget pour ajouter des icônes sociales comme widget.␣ "
+
+#: ../inc/catchresponsive-widgets.php:111
+msgid "Title (optional):"
+msgstr "Titre (optionnel):"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:25
+#, fuzzy
+#| msgid "Select Categories"
+msgid "All Categories"
+msgstr "Sélectionner Catégories "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:37
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+"Maintenez le bouton / Commande (Mac) Ctrl (windows) pour sélectionner "
+"plusieurs options. "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:50
+msgid "Theme Instructions"
+msgstr " Instructions de thème"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:54
+msgid "Support"
+msgstr "Soutien "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:58
+msgid "Changelog"
+msgstr "Enregistrement des changements"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:62
+msgid "Donate Now"
+msgstr "Faire un don maintenant "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:66
+msgid "Review"
+msgstr "Examen "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-custom-controls.php:78
+msgid "Google+"
+msgstr "Google+ "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:19
+msgid "Options for Featured Content"
+msgstr "Option pour contenu vedette"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:28
+msgid "Featured Content Options"
+msgstr "Options de contenu vedette"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:46
+msgid "Enable Featured Content on"
+msgstr "Activer le contenu vedette sur "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:62
+msgid "Select Featured Content Layout"
+msgstr "Sélectionnez la mise en page du contenu vedette"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:77
+msgid "Check to Move above Footer"
+msgstr "Vérifiez ci-dessus le déplacement du Pied "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:93
+msgid "Select Content Type"
+msgstr "Sélectionner le type de contenu "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:108
+msgid "Leave field empty if you want to remove Headline"
+msgstr "Laissez le champ vide si vous souhaitez supprimer titre"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:109
+msgid "Headline for Featured Content"
+msgstr "Titre pour le contenu en vedette"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:125
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "Laissez le champ vide si vous souhaitez supprimer Sous-titre "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:126
+msgid "Sub-headline for Featured Content"
+msgstr "Sous-titre pour le contenu sélectionné"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:142
+msgid ""
+"Save and refresh the page if No. of Featured Content is changed (Max no of "
+"Featured Content is 20)"
+msgstr ""
+"Enregistrer et actualiser la page si le nombre de contenu selectionné est "
+"modifié (Max pas de contenu vedette est 20)"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:149
+msgid "No of Featured Content"
+msgstr "Pas de contenu vedette"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:166
+msgid "Display Content"
+msgstr "Afficher le contenu"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-content-setting.php:184
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:171
+msgid "Featured Page"
+msgstr "page sélectionné "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:19
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:27
+msgid "Featured Slider Options"
+msgstr "Options du curseur sélectionné"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:21
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:33
+msgid "Featured Slider"
+msgstr "Options pour le diaporama"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:45
+msgid "Enable Slider on"
+msgstr "Activer curseur sur "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:61
+msgid "Transition Effect"
+msgstr "Effet de transition "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:77
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:96
+msgid "seconds(s)"
+msgstr "seconde (s) "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:81
+msgid "Transition Delay"
+msgstr "Retard de transition "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:100
+msgid "Transition Length"
+msgstr "Transition Longueur "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:116
+msgid "Image Loader"
+msgstr "Chargeur d'image"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:132
+msgid "Select Slider Type"
+msgstr "Sélectionnez type de curseur"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:147
+msgid ""
+"Save and refresh the page if No. of Slides is changed (Max no of slides is "
+"20)"
+msgstr ""
+"Enregistrer et actualiser la page si le nombre de diapositives est modifié "
+"(Max pas de diapositives est 20) "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-featured-slider.php:154
+msgid "No of Slides"
+msgstr "Pas de diapositives "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:25
+msgid "Enable Featured Header Image on "
+msgstr "Activer titre image vedette␣ "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:40
+msgid "Page/Post Featured Header Image Size"
+msgstr "Page / article taille image d'en tête"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:53
+msgid "Featured Header Image Alt/Title Tag "
+msgstr " Image d'en tête Alt / Titre balise␣ "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:66
+msgid "Featured Header Image Link URL"
+msgstr " Image d'en tête lien URL "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-header-options.php:79
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:363
+msgid "Check to Open Link in New Window/Tab"
+msgstr "Vérifiez que le lien s'ouvre dans une nouvelle fenêtre / onglet "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:19
+msgid "Note: Enter the url for correponding social networking website"
+msgstr "Remarque: entrez l'URL du site correspondant au réseau social "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:21
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:28
+msgid "Social Links"
+msgstr "Liens sociaux "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-social-icons.php:45
+msgid ""
+"Skype link can be of formats:<br>callto://+{number}<br> skype:{username}?"
+"{action}. More Information in readme file"
+msgstr ""
+"Skype link can be of formats:<br>callto://+{number}<br> skype:{username}?"
+"{action}. More Information in readme file"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:20
+msgid "Basic theme Options"
+msgstr "Options thème de base "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:23
+msgid "Theme Options"
+msgstr "Options du thème "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:29
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site with just a glance. You can enable/disable them on homepage and "
+"entire site."
+msgstr ""
+"les fils d'ariene sont un excellent moyen pour vos visiteurs de trouver où "
+"ils sont sur votre site avec un simple coup d'œil. Vous pouvez  les "
+"activer / les désactiver sur la page d'accueil et de tout le site."
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:31
+msgid "Breadcrumb Options"
+msgstr "Options de fil d'ariane"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:42
+msgid "Check to enable Breadcrumb"
+msgstr "Cocher pour activer fil d'Ariane "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:55
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "Cocher pour activer le fil d'ariane sur la page d'accueil "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:71
+msgid "Separator between Breadcrumbs"
+msgstr "Séparation entre les fil d'ariane"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:86
+msgid "Custom/Inline CSS"
+msgstr "Personnalisé / ine CSS "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:89
+msgid "Custom CSS Options"
+msgstr "Options CSS personnalisées "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:99
+msgid "Enter Custom CSS"
+msgstr "Entrez CSS personnalisé "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:112
+msgid "Excerpt Options"
+msgstr "Extrait d'option "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:122
+msgid "Excerpt length. Default is 55 words"
+msgstr "Extrait  longueur. Par défaut est 55 mots"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:129
+msgid "Excerpt Length (words)"
+msgstr "Extrait Longueur (mots) "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:143
+msgid "Read More Text"
+msgstr "En lire plus"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:152
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr ""
+"Seuls les messages qui appartiennent aux catégories sélectionnées ici seront "
+"affichés sur la page d'accueil "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:155
+msgid "Homepage / Frontpage Options"
+msgstr "Page d'accueil / Options première page"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:165
+msgid "Select Categories"
+msgstr "Sélectionner Catégories "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:191
+msgid "Default Layout"
+msgstr "Mise en page par défaut "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:205
+msgid "Archive Content Layout"
+msgstr "Archive mise en page de contenu "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:229
+#, fuzzy, php-format
+#| msgid ""
+#| "Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi "
+#| "Plugin</a>.<br/>Infinite Scroll Options requires <a target=\"_blank\" "
+#| "href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgid ""
+"Numeric Option requires <a target=\"_blank\" href=\"%1$s\">WP-PageNavi "
+"Plugin</a>.<br/>Infinite Scroll Options requires <a target=\"_blank\" href="
+"\"%2$s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr ""
+"Option numérique nécessite <a target=\"_blank\" href=\"%s\"> WP-PageNavi "
+"Plugin </a>. <br/> Options de défilement Infinite nécessite <a target="
+"\"_blank\" href=\"%s\"> JetPack Plugin </a> avec module Infini Scroll "
+"Enabled. "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:236
+#, php-format
+msgid ""
+"Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack "
+"Plugin</a> with Infinite Scroll module Enabled."
+msgstr ""
+"Options de défilement infini nécessite <a target=\"_blank\" href=\"%s\"> "
+"JetPack Plugin </a> avec module Infini Scroll permis. "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:247
+#, php-format
+msgid ""
+"Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi Plugin</"
+"a>."
+msgstr ""
+"Option numérique nécessite <a target=\"_blank\" href=\"%s\"> WP-PageNavi "
+"Plugin </a>. "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:258
+msgid "Pagination Options"
+msgstr "Options de pagination "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:269
+msgid "Pagination type"
+msgstr "Type de pagination "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:278
+msgid "To disable the fields, simply leave them empty."
+msgstr "Pour désactiver les champs, laissez simplement vide. "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:281
+msgid "Promotion Headline Options"
+msgstr "Promotion options titre"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:292
+msgid "Enable Promotion Headline on"
+msgstr "Activer Promotion titre sur "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:306
+msgid "Appropriate Words: 10"
+msgstr "Mots appropriés: 10 "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:307
+msgid "Promotion Headline Text"
+msgstr "Promotion tire text "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:320
+msgid "Appropriate Words: 15"
+msgstr "Mots appropriés: 15 "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:321
+msgid "Promotion Subheadline Text"
+msgstr "Promotion sous titre texte "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:334
+msgid "Appropriate Words: 3"
+msgstr "Mots appropriés: 3 "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:335
+msgid "Promotion Headline Button Text "
+msgstr "Promotion Bouton global Text"
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:349
+msgid "Promotion Headline Link"
+msgstr "Promotion titre Lien "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:375
+msgid "Scrollup Options"
+msgstr ""
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:385
+msgid "Check to disable Scroll Up"
+msgstr ""
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:394
+msgid "Change default placeholder text in Search."
+msgstr "Texte d'espace réservé changement défaut dans Recherche. "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:397
+msgid "Search Options"
+msgstr "options de recherche "
+
+#: ../inc/customizer-includes/catchresponsive-customizer-theme-options.php:407
+msgid "Default Display Text in Search"
+msgstr "Affichage par défaut texte Rechercher "
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:53
+msgid "Logo"
+msgstr "Logo"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:66
+msgid "Check to disable logo"
+msgstr "Vérifiez désactiver logo "
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:80
+msgid "Logo Alt Text"
+msgstr "Logo Alt Text "
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:95
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "Vérifiez déplacer site Titre et Slogan avant logo "
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:113
+msgid "Color Scheme"
+msgstr "Couleur programme"
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:128
+msgid "Mobile Menu Color Scheme"
+msgstr ""
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:152
+msgid ""
+"Caution: Reset all settings to default. Refresh the page after save to view "
+"full effects."
+msgstr ""
+"Attention: Réinitialiser tous les réglages par défaut. Rafraîchissez la page "
+"après enregistrer pour voir pleins effets."
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:154
+msgid "Reset all settings"
+msgstr "Réinitialiser tous les réglages "
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:165
+msgid "Check to reset all settings to default"
+msgstr "Vérifiez réinitialiser tous les paramètres par défaut "
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:175
+#: ../inc/customizer-includes/catchresponsive-customizer.php:186
+msgid "Important Links"
+msgstr "Liens importants "
+
+#: ../inc/customizer-includes/catchresponsive-customizer.php:220
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr ""
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Catch Responsive Pro"
+msgstr "Catch Responsive Pro"
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: ../no-results.php:14
+msgid "Error 404-Page NOT Found"
+msgstr "Erreur 404-Page pas trouvée"
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultat de recherche pour: %s"
+
+#: ../searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche pour:"
+
+#: ../searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Recherche"
+
+#: ../sidebar.php:40
+msgid "Primary Sidebar Widget Area"
+msgstr "Première barre latéral Zone Widget "
+
+#: ../sidebar.php:43
+msgid ""
+"This is the Primary Sidebar Widget Area if you are using a two or three "
+"column site layout option."
+msgstr ""
+"C'est la première barre latérale de zone de widgets  si vous utilisez "
+"l'option deux ou trois colonnes: réaménagement du site. "
+
+#: ../sidebar.php:44
+#, php-format
+msgid ""
+"By default it will load Search and Archives widgets as shown below. You can "
+"add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> "
+"which will replace default widgets."
+msgstr ""
+"Par défaut,  chargement de widget  Recherche et d' Archives comme indiqué ci-"
+"dessous. Vous pouvez ajouter un widget à cette région en visitant votre <a "
+"href=\"%s\"> Panneau Widgets </a> qui remplacera widgets par défaut."
+
+#: ../sidebar.php:57
+msgid "Archives"
+msgstr "Archives"
+
+#~ msgid "Search"
+#~ msgstr "Recherche"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Remove Icon images to disable."
+#~ msgstr "Supprimer les icônes d'image pour désactiver. "
+
+#~ msgid "Icon Options"
+#~ msgstr " Options icône"
+
+#~ msgid "Select/Add Favicon"
+#~ msgstr "Sélectionner / Ajouter Favicon "
+
+#~ msgid ""
+#~ "Web Clip Icon for Apple devices. Recommended Size - Width 144px and "
+#~ "Height 144px height, which will support High Resolution Devices like iPad "
+#~ "Retina."
+#~ msgstr ""
+#~ "Web clip pour les appareils Apple. Taille recommandée - Largeur et "
+#~ "Hauteur 144px 144px de hauteur, qui soutiendra les dispositifs à haute "
+#~ "résolution comme iPad Retina."
+
+#~ msgid "Select/Add Web Clip Icon"
+#~ msgstr "Sélectionner / Ajouter Web clip "
+
+#, fuzzy
+#~ msgid "Catch Responsive"
+#~ msgstr "Options de Catch Responsive"
+
+#~ msgid "Upgrade To Pro &raquo;"
+#~ msgstr "Améliorer vers version pro & raquo;"
+
+#~ msgid "Author: %s"
+#~ msgstr "Auteur: %s"
+
+#~ msgid "Day: %s"
+#~ msgstr "Jour: %s"
+
+#~ msgid "Month: %s"
+#~ msgstr "Mois: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "M A"
+
+#~ msgid "Year: %s"
+#~ msgstr "Année: %s"
+
+#~ msgid "Asides"
+#~ msgstr "De coté"
+
+#~ msgid "Galleries"
+#~ msgstr "Galeries"
+
+#~ msgid "Images"
+#~ msgstr "Images"
+
+#~ msgid "Videos"
+#~ msgstr "Vidéos"
+
+#~ msgid "Quotes"
+#~ msgstr "Citattions"
+
+#~ msgid "Links"
+#~ msgstr "Liens"
+
+#~ msgid "Statuses"
+#~ msgstr "Status"
+
+#~ msgid "Audios"
+#~ msgstr "Audios"
+
+#~ msgid "Chats"
+#~ msgstr "Discutions"
+
+#~ msgctxt "Used before publish date."
+#~ msgid "<span class=\"screen-reader-text\">Posted on</span>"
+#~ msgstr "<span class = \"lecteur d'écran-text\"> Posté le </ span>"
+
+#~ msgctxt "Used before post author name."
+#~ msgid "<span class=\"screen-reader-text\">Author</span>"
+#~ msgstr "<span class = \"lecteur d'écran-text\"> Auteur </ span>"
+
+#~ msgid ""
+#~ "Some settings might be missing or disorganized in this version of "
+#~ "WordPress. So we suggest you to upgrade to version 4.0 or better."
+#~ msgstr ""
+#~ "Certains paramètres peuvent être manquantes ou désorganisé dans cette "
+#~ "version de WordPress. Donc, nous vous suggérons de mettre à jour vers la "
+#~ "version 4.0 ou mieux."
+
+#~ msgid "Catchresponsive Options"
+#~ msgstr "Options de Catchresponsive "
+
+#~ msgid "StumbleUpon"
+#~ msgstr "StumbleUpon "
+
+#~ msgid "Featured Content Settings"
+#~ msgstr " Paramètres de contenu vedette"
+
+#~ msgid "Featured Content Type"
+#~ msgstr "Type de contenu vedette"
+
+#~ msgid "Featured Slider Settings"
+#~ msgstr "Réglages du curseur seléctionné"
+
+#~ msgid "Featured Slider Type"
+#~ msgstr "Sélection  type de curseur"
+
+#~ msgid "Archive for %s"
+#~ msgstr "Archives pour %s"
+
+#~ msgid "Search results for: %s"
+#~ msgstr "Résultat pour votre recherche: %s"
+
+#~ msgid "Posts tagged %s"
+#~ msgstr "Articles étiquetés %s"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Voir tout les articles de %s"
+
+#~ msgid "Permalink to:"
+#~ msgstr "Permalien à:"
+
+#~ msgid "En lire plus"
+#~ msgstr "Lire en plus les"

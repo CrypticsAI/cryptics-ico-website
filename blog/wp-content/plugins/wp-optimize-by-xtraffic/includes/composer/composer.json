@@ -1,0 +1,8 @@
+{
+	"require" : {
+		"php" : ">=5.3.0"
+		, "hashids/hashids" : "1.0.5"
+		, "crodas/languagedetector" : "v0.1.1"
+	}
+	, "minimum-stability": "dev"
+}

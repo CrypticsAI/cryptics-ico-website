@@ -1,0 +1,150 @@
+/*
+Theme Name:         Jinn
+Theme URI:          https://github.com/jekkilekki/theme-jin
+Author:             Aaron Snowberger
+Author URI:         http://aaronsnowberger.com
+Description:        A simple portfolio theme built with Sass and Foundation
+Version:            2.0.8
+License:            GNU General Public License v2 or later
+License URI:        http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:        jinn
+Tags:               blog, portfolio, one-column, two-columns, left-sidebar, right-sidebar, grid-layout, flexible-header, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready
+GitHub Theme URI:   https://github.com/jekkilekki/theme-jin
+GitHub Branch:      master
+
+This theme, like WordPress, is licensed under the GPL.
+
+Jinn (Components) is based on Underscores Components http://components.underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Accessibility
+# Alignments
+# Clearings
+# Typography
+# Forms
+# Buttons
+# Formatting
+# Lists
+# Tables
+# Navigation
+# Links
+# Layout
+	## Posts
+	## Pages
+# Comments
+# Widgets
+# Infinite scroll
+# Media
+	## Galleries
+# Jinn
+--------------------------------------------------------------*/
+@import "variables/variables-base";
+@import "mixins/mixins-base";
+@import "jinn-styles/jinn-vars"; /* Custom vars for this theme */
+@import "jinn-styles/jinn-mixins";
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+@import "shared/normalize";
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+@import "shared/accessibility";
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+@import "shared/alignments";
+
+/*--------------------------------------------------------------
+# Clearings
+--------------------------------------------------------------*/
+@import "shared/clearings";
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+@import "shared/typography";
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+@import "shared/forms";
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+@import "shared/buttons";
+
+/*--------------------------------------------------------------
+# Formattings
+--------------------------------------------------------------*/
+@import "shared/formatting";
+
+/*--------------------------------------------------------------
+# Lists
+--------------------------------------------------------------*/
+@import "shared/lists";
+
+/*--------------------------------------------------------------
+# Tables
+--------------------------------------------------------------*/
+@import "shared/tables";
+
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+@import "shared/navigation";
+@import "jinn-styles/navigation/navigation";
+
+/*--------------------------------------------------------------
+# Links
+--------------------------------------------------------------*/
+@import "shared/links";
+
+/*--------------------------------------------------------------
+# Links
+--------------------------------------------------------------*/
+@import "shared/links";
+
+/*--------------------------------------------------------------
+# Layout
+--------------------------------------------------------------*/
+@import "layout/layout";
+
+/*--------------------------------------------------------------
+# Comments
+--------------------------------------------------------------*/
+@import "sections/comments";
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+@import "sections/widgets";
+
+/*--------------------------------------------------------------
+# Infinite scroll
+--------------------------------------------------------------*/
+@import "shared/infinitescroll";
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+@import "shared/media";
+
+/*--------------------------------------------------------------
+# Jinn
+--------------------------------------------------------------*/
+@import "components";
+@import "jinn-styles/jinn-style"; /* Custom styles for this theme */
+@import "jinn-styles/jinn-frontpage"; /* Custom styles for the front page only */
