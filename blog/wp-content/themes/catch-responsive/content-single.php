@@ -39,5 +39,7 @@
 		<footer class="entry-footer">
 			<?php catchresponsive_tag_category(); ?>
 		</footer><!-- .entry-footer -->
+		
 	</div><!-- .entry-container -->
+
 </article><!-- #post-## -->
